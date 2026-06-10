@@ -1,6 +1,6 @@
 {
-  "version": 4,
-  "updatedAt": "2026-06-09T21:46:48.799Z",
+  "version": 5,
+  "updatedAt": "2026-06-10T05:41:54.779Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -12,7 +12,7 @@
       "Canada": {
         "neg": 4,
         "pos": 3,
-        "driverNeg": "Bombito hoogst onzeker na beenbreuk, Davies in race tegen de klok voor de opener, mager gelijkspel tegen Ierland"
+        "driverNeg": "Bombito afgehaakt met niet-herstelde beenbreuk, Davies in race tegen de klok voor de opener"
       },
       "Mexico": {
         "neg": 4,
@@ -28,6 +28,21 @@
         "neg": 5,
         "pos": 7,
         "driverPos": "overtuigende afsluiting met 4-0 tegen Finland en 2-1 uitzege op gastland VS"
+      },
+      "Tunesië": {
+        "neg": 3,
+        "pos": 3,
+        "driverNeg": "pijnlijke 5-0 nederlaag tegen België in de generale week"
+      },
+      "Haïti": {
+        "neg": 1,
+        "pos": 4,
+        "driverPos": "sterke generale week met zeges op Nieuw-Zeeland en Peru"
+      },
+      "Ivoorkust": {
+        "neg": 2,
+        "pos": 6,
+        "driverPos": "AFCON-winnaar versloeg Frankrijk met 2-1 in de voorbereidingsweek"
       }
     },
     "form": {
@@ -513,6 +528,1426 @@
           "date": "2025-03-21",
           "src": "nbc"
         }
+      ],
+      "VS": [
+        {
+          "result": "L",
+          "opp": 1730,
+          "comp": "F",
+          "oppName": "Duitsland",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1689,
+          "comp": "F",
+          "oppName": "Senegal",
+          "date": "2026-05-31",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1764,
+          "comp": "F",
+          "oppName": "Portugal",
+          "date": "2026-03-31",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1735,
+          "comp": "F",
+          "oppName": "België",
+          "date": "2026-03-28",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1673,
+          "comp": "F",
+          "oppName": "Uruguay",
+          "date": "2025-11-19",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1503,
+          "comp": "F",
+          "oppName": "Paraguay",
+          "date": "2025-11-15",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1549,
+          "comp": "F",
+          "oppName": "Australië",
+          "date": "2025-10-15",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1594,
+          "comp": "F",
+          "oppName": "Ecuador",
+          "date": "2025-10-11",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1660,
+          "comp": "F",
+          "oppName": "Japan",
+          "date": "2025-09-09",
+          "src": "fotmob"
+        },
+        {
+          "result": "L",
+          "opp": 1588,
+          "comp": "F",
+          "oppName": "Zuid-Korea",
+          "date": "2025-09-06",
+          "src": "fotmob"
+        }
+      ],
+      "Paraguay": [
+        {
+          "result": "W",
+          "opp": 1050,
+          "comp": "F",
+          "oppName": "Nicaragua",
+          "date": "2026-06-05",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1755,
+          "comp": "F",
+          "oppName": "Marokko",
+          "date": "2026-03-31",
+          "src": "goal"
+        },
+        {
+          "result": "W",
+          "opp": 1340,
+          "comp": "F",
+          "oppName": "Griekenland",
+          "date": "2026-03-27",
+          "src": "goal"
+        },
+        {
+          "result": "W",
+          "opp": 1681,
+          "comp": "F",
+          "oppName": "Mexico",
+          "date": "2025-11-18",
+          "src": "besoccer"
+        },
+        {
+          "result": "L",
+          "opp": 1673,
+          "comp": "F",
+          "oppName": "VS",
+          "date": "2025-11-15",
+          "src": "besoccer"
+        },
+        {
+          "result": "L",
+          "opp": 1588,
+          "comp": "F",
+          "oppName": "Zuid-Korea",
+          "date": "2025-10-14",
+          "src": "besoccer"
+        },
+        {
+          "result": "D",
+          "opp": 1660,
+          "comp": "F",
+          "oppName": "Japan",
+          "date": "2025-10-10",
+          "src": "besoccer"
+        },
+        {
+          "result": "W",
+          "opp": 1400,
+          "comp": "O",
+          "oppName": "Peru",
+          "date": "2025-09-09",
+          "src": "goal"
+        },
+        {
+          "result": "D",
+          "opp": 1594,
+          "comp": "O",
+          "oppName": "Ecuador",
+          "date": "2025-09-04",
+          "src": "goal"
+        }
+      ],
+      "Qatar": [
+        {
+          "result": "D",
+          "opp": 1290,
+          "comp": "F",
+          "oppName": "El Salvador",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1366,
+          "comp": "F",
+          "oppName": "Ierland",
+          "date": "2026-05-28",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1385,
+          "comp": "O",
+          "oppName": "VAE",
+          "date": "2025-11-18",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1465,
+          "comp": "O",
+          "oppName": "Oezbekistan",
+          "date": "2025-11-14",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1385,
+          "comp": "O",
+          "oppName": "VAE",
+          "date": "2025-10-14",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1615,
+          "comp": "O",
+          "oppName": "Iran",
+          "date": "2025-10-09",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1110,
+          "comp": "O",
+          "oppName": "Kirgizië",
+          "date": "2025-06-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1000,
+          "comp": "O",
+          "oppName": "Noord-Korea",
+          "date": "2025-06-05",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1110,
+          "comp": "O",
+          "oppName": "Kirgizië",
+          "date": "2025-03-25",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1000,
+          "comp": "O",
+          "oppName": "Noord-Korea",
+          "date": "2025-03-20",
+          "src": "nbc"
+        }
+      ],
+      "Zwitserland": [
+        {
+          "result": "D",
+          "opp": 1580,
+          "comp": "F",
+          "oppName": "Australië",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1391,
+          "comp": "F",
+          "oppName": "Jordanië",
+          "date": "2026-05-31",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Zweden",
+          "date": "2025-11-18",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Kosovo",
+          "date": "2025-11-15",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Zweden",
+          "date": "2025-10-13",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Slovenië",
+          "date": "2025-10-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Kosovo",
+          "date": "2025-09-09",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Slovenië",
+          "date": "2025-09-08",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1730,
+          "comp": "F",
+          "oppName": "Duitsland",
+          "date": "2025-06-10",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1550,
+          "comp": "F",
+          "oppName": "Noorwegen",
+          "date": "2025-06-07",
+          "src": "fotmob"
+        }
+      ],
+      "Brazilië": [
+        {
+          "result": "W",
+          "opp": 1563,
+          "comp": "F",
+          "oppName": "Egypte",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1540,
+          "comp": "F",
+          "oppName": "Panama",
+          "date": "2026-05-31",
+          "src": "espn"
+        },
+        {
+          "result": "L",
+          "opp": 1877,
+          "comp": "F",
+          "oppName": "Frankrijk",
+          "date": "2026-04-01",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1717,
+          "comp": "F",
+          "oppName": "Kroatië",
+          "date": "2026-03-31",
+          "src": "espn"
+        },
+        {
+          "result": "D",
+          "opp": 1483,
+          "comp": "F",
+          "oppName": "Tunesië",
+          "date": "2026-03-26",
+          "src": "fotmob"
+        },
+        {
+          "result": "L",
+          "opp": 1660,
+          "comp": "F",
+          "oppName": "Japan",
+          "date": "2025-11-18",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1689,
+          "comp": "F",
+          "oppName": "Senegal",
+          "date": "2025-11-15",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1588,
+          "comp": "F",
+          "oppName": "Zuid-Korea",
+          "date": "2025-10-14",
+          "src": "fotmob"
+        },
+        {
+          "result": "L",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "Bolivia",
+          "date": "2025-09-09",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Chili",
+          "date": "2025-09-04",
+          "src": "fotmob"
+        }
+      ],
+      "Marokko": [
+        {
+          "result": "D",
+          "opp": 1550,
+          "comp": "F",
+          "oppName": "Noorwegen",
+          "date": "2026-06-07",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1100,
+          "comp": "F",
+          "oppName": "Madagascar",
+          "date": "2026-06-02",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1000,
+          "comp": "F",
+          "oppName": "Burundi",
+          "date": "2026-05-26",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1689,
+          "comp": "O",
+          "oppName": "Senegal",
+          "date": "2026-01-18",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1480,
+          "comp": "O",
+          "oppName": "Nigeria",
+          "date": "2026-01-14",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1455,
+          "comp": "O",
+          "oppName": "Kameroen",
+          "date": "2026-01-09",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Zambia",
+          "date": "2025-12-29",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Mali",
+          "date": "2025-12-26",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1150,
+          "comp": "O",
+          "oppName": "Comoren",
+          "date": "2025-12-21",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1100,
+          "comp": "O",
+          "oppName": "Niger",
+          "date": "2025-09-05",
+          "src": "nbc"
+        }
+      ],
+      "Australië": [
+        {
+          "result": "D",
+          "opp": 1649,
+          "comp": "F",
+          "oppName": "Zwitserland",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1681,
+          "comp": "F",
+          "oppName": "Mexico",
+          "date": "2026-05-30",
+          "src": "espn"
+        },
+        {
+          "result": "D",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Bahrein",
+          "date": "2025-11-19",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1421,
+          "comp": "O",
+          "oppName": "Saoedi-Arabië",
+          "date": "2025-11-14",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1660,
+          "comp": "F",
+          "oppName": "Japan",
+          "date": "2025-10-14",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "China",
+          "date": "2025-10-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1421,
+          "comp": "O",
+          "oppName": "Saoedi-Arabië",
+          "date": "2025-06-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "China",
+          "date": "2025-06-05",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1110,
+          "comp": "O",
+          "oppName": "Indonesië",
+          "date": "2025-03-25",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1110,
+          "comp": "O",
+          "oppName": "Indonesië",
+          "date": "2025-03-20",
+          "src": "nbc"
+        }
+      ],
+      "Turkije": [
+        {
+          "result": "W",
+          "opp": 1480,
+          "comp": "F",
+          "oppName": "Venezuela",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1370,
+          "comp": "F",
+          "oppName": "Noord-Macedonië",
+          "date": "2026-06-01",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Kosovo",
+          "date": "2026-03-31",
+          "src": "fox"
+        },
+        {
+          "result": "W",
+          "opp": 1480,
+          "comp": "O",
+          "oppName": "Roemenië",
+          "date": "2026-03-26",
+          "src": "fox"
+        },
+        {
+          "result": "D",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2025-11-18",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "Georgië",
+          "date": "2025-11-15",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1240,
+          "comp": "O",
+          "oppName": "Bulgarije",
+          "date": "2025-10-14",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1240,
+          "comp": "O",
+          "oppName": "Bulgarije",
+          "date": "2025-10-11",
+          "src": "uefa"
+        },
+        {
+          "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2025-09-07",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "Georgië",
+          "date": "2025-09-04",
+          "src": "nbc"
+        }
+      ],
+      "Haïti": [
+        {
+          "result": "W",
+          "opp": 1400,
+          "comp": "F",
+          "oppName": "Peru",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1281,
+          "comp": "F",
+          "oppName": "Nieuw-Zeeland",
+          "date": "2026-06-03",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1100,
+          "comp": "O",
+          "oppName": "Nicaragua",
+          "date": "2025-11-18",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1450,
+          "comp": "O",
+          "oppName": "Costa Rica",
+          "date": "2025-11-13",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "Honduras",
+          "date": "2025-10-13",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1100,
+          "comp": "O",
+          "oppName": "Nicaragua",
+          "date": "2025-10-09",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1450,
+          "comp": "O",
+          "oppName": "Costa Rica",
+          "date": "2025-09-09",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "Honduras",
+          "date": "2025-09-05",
+          "src": "nbc"
+        }
+      ],
+      "Schotland": [
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "F",
+          "oppName": "Bolivia",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1294,
+          "comp": "F",
+          "oppName": "Curaçao",
+          "date": "2026-05-30",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1615,
+          "comp": "O",
+          "oppName": "Denemarken",
+          "date": "2025-11-18",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Griekenland",
+          "date": "2025-11-15",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1020,
+          "comp": "O",
+          "oppName": "Belarus",
+          "date": "2025-10-12",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Griekenland",
+          "date": "2025-10-09",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1020,
+          "comp": "O",
+          "oppName": "Belarus",
+          "date": "2025-09-08",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1615,
+          "comp": "O",
+          "oppName": "Denemarken",
+          "date": "2025-09-05",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1532,
+          "comp": "F",
+          "oppName": "Ivoorkust",
+          "date": "2025-06-06",
+          "src": "fotmob"
+        }
+      ],
+      "Duitsland": [
+        {
+          "result": "W",
+          "opp": 1673,
+          "comp": "F",
+          "oppName": "VS",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1180,
+          "comp": "F",
+          "oppName": "Finland",
+          "date": "2026-05-31",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1346,
+          "comp": "F",
+          "oppName": "Ghana",
+          "date": "2026-03-30",
+          "src": "footboom"
+        },
+        {
+          "result": "W",
+          "opp": 1480,
+          "comp": "O",
+          "oppName": "Slowakije",
+          "date": "2025-11-17",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1290,
+          "comp": "O",
+          "oppName": "Noord-Ierland",
+          "date": "2025-11-14",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1010,
+          "comp": "O",
+          "oppName": "Luxemburg",
+          "date": "2025-10-13",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1290,
+          "comp": "O",
+          "oppName": "Noord-Ierland",
+          "date": "2025-10-10",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1010,
+          "comp": "O",
+          "oppName": "Luxemburg",
+          "date": "2025-09-07",
+          "src": "uefa"
+        },
+        {
+          "result": "L",
+          "opp": 1480,
+          "comp": "O",
+          "oppName": "Slowakije",
+          "date": "2025-09-04",
+          "src": "uefa"
+        }
+      ],
+      "Curaçao": [
+        {
+          "result": "W",
+          "opp": 700,
+          "comp": "F",
+          "oppName": "Aruba",
+          "date": "2026-06-07",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1498,
+          "comp": "F",
+          "oppName": "Schotland",
+          "date": "2026-05-30",
+          "src": "football365"
+        },
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Jamaica",
+          "date": "2025-11-18",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 900,
+          "comp": "O",
+          "oppName": "Bermuda",
+          "date": "2025-11-13",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1150,
+          "comp": "O",
+          "oppName": "Trinidad en Tobago",
+          "date": "2025-10-14",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Jamaica",
+          "date": "2025-10-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 900,
+          "comp": "O",
+          "oppName": "Bermuda",
+          "date": "2025-09-09",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1150,
+          "comp": "O",
+          "oppName": "Trinidad en Tobago",
+          "date": "2025-09-04",
+          "src": "nbc"
+        }
+      ],
+      "Nederland": [
+        {
+          "result": "W",
+          "opp": 1465,
+          "comp": "F",
+          "oppName": "Oezbekistan",
+          "date": "2026-06-08",
+          "src": "si"
+        },
+        {
+          "result": "L",
+          "opp": 1564,
+          "comp": "F",
+          "oppName": "Algerije",
+          "date": "2026-06-03",
+          "src": "football365"
+        },
+        {
+          "result": "D",
+          "opp": 1594,
+          "comp": "F",
+          "oppName": "Ecuador",
+          "date": "2026-03-31",
+          "src": "goal"
+        },
+        {
+          "result": "W",
+          "opp": 1050,
+          "comp": "O",
+          "oppName": "Litouwen",
+          "date": "2025-11-17",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1180,
+          "comp": "O",
+          "oppName": "Finland",
+          "date": "2025-11-14",
+          "src": "uefa"
+        },
+        {
+          "result": "D",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Polen",
+          "date": "2025-10-14",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 960,
+          "comp": "O",
+          "oppName": "Malta",
+          "date": "2025-10-11",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1050,
+          "comp": "O",
+          "oppName": "Litouwen",
+          "date": "2025-09-07",
+          "src": "uefa"
+        },
+        {
+          "result": "W",
+          "opp": 1180,
+          "comp": "O",
+          "oppName": "Finland",
+          "date": "2025-09-04",
+          "src": "uefa"
+        },
+        {
+          "result": "D",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Polen",
+          "date": "2025-06-07",
+          "src": "uefa"
+        }
+      ],
+      "Japan": [
+        {
+          "result": "W",
+          "opp": 1281,
+          "comp": "F",
+          "oppName": "IJsland",
+          "date": "2026-05-31",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1826,
+          "comp": "F",
+          "oppName": "Engeland",
+          "date": "2026-03-31",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "China",
+          "date": "2025-11-19",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1761,
+          "comp": "F",
+          "oppName": "Brazilië",
+          "date": "2025-11-18",
+          "src": "fotmob"
+        },
+        {
+          "result": "L",
+          "opp": 1549,
+          "comp": "F",
+          "oppName": "Australië",
+          "date": "2025-10-14",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Bahrein",
+          "date": "2025-10-10",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1421,
+          "comp": "O",
+          "oppName": "Saoedi-Arabië",
+          "date": "2025-09-09",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1300,
+          "comp": "O",
+          "oppName": "China",
+          "date": "2025-06-10",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Bahrein",
+          "date": "2025-06-05",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1549,
+          "comp": "O",
+          "oppName": "Australië",
+          "date": "2025-03-25",
+          "src": "nbc"
+        }
+      ],
+      "Ivoorkust": [
+        {
+          "result": "W",
+          "opp": 1877,
+          "comp": "F",
+          "oppName": "Frankrijk",
+          "date": "2026-06-04",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1588,
+          "comp": "F",
+          "oppName": "Zuid-Korea",
+          "date": "2026-03-28",
+          "src": "espn"
+        },
+        {
+          "result": "L",
+          "opp": 1563,
+          "comp": "O",
+          "oppName": "Egypte",
+          "date": "2026-01-10",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1350,
+          "comp": "O",
+          "oppName": "Burkina Faso",
+          "date": "2026-01-06",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Gabon",
+          "date": "2025-12-31",
+          "src": "espn"
+        },
+        {
+          "result": "D",
+          "opp": 1455,
+          "comp": "O",
+          "oppName": "Kameroen",
+          "date": "2025-12-28",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1100,
+          "comp": "O",
+          "oppName": "Mozambique",
+          "date": "2025-12-24",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1080,
+          "comp": "O",
+          "oppName": "Kenia",
+          "date": "2025-10-14",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 900,
+          "comp": "O",
+          "oppName": "Seychellen",
+          "date": "2025-10-10",
+          "src": "espn"
+        },
+        {
+          "result": "D",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Gabon",
+          "date": "2025-09-09",
+          "src": "espn"
+        }
+      ],
+      "Ecuador": [
+        {
+          "result": "W",
+          "opp": 1340,
+          "comp": "F",
+          "oppName": "Guatemala",
+          "date": "2026-06-07",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1421,
+          "comp": "F",
+          "oppName": "Saoedi-Arabië",
+          "date": "2026-05-31",
+          "src": "football365"
+        },
+        {
+          "result": "D",
+          "opp": 1757,
+          "comp": "F",
+          "oppName": "Nederland",
+          "date": "2026-03-31",
+          "src": "goal"
+        },
+        {
+          "result": "D",
+          "opp": 1755,
+          "comp": "F",
+          "oppName": "Marokko",
+          "date": "2026-03-27",
+          "src": "goal"
+        },
+        {
+          "result": "D",
+          "opp": 1556,
+          "comp": "F",
+          "oppName": "Canada",
+          "date": "2025-11-14",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1681,
+          "comp": "F",
+          "oppName": "Mexico",
+          "date": "2025-10-15",
+          "src": "fotmob"
+        },
+        {
+          "result": "W",
+          "opp": 1874,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2025-09-09",
+          "src": "goal"
+        },
+        {
+          "result": "D",
+          "opp": 1503,
+          "comp": "O",
+          "oppName": "Paraguay",
+          "date": "2025-09-04",
+          "src": "goal"
+        },
+        {
+          "result": "D",
+          "opp": 1400,
+          "comp": "O",
+          "oppName": "Peru",
+          "date": "2025-06-10",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1761,
+          "comp": "O",
+          "oppName": "Brazilië",
+          "date": "2025-06-05",
+          "src": "fotmob"
+        }
+      ],
+      "Tunesië": [
+        {
+          "result": "L",
+          "opp": 1735,
+          "comp": "F",
+          "oppName": "België",
+          "date": "2026-06-06",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1593,
+          "comp": "F",
+          "oppName": "Oostenrijk",
+          "date": "2026-06-01",
+          "src": "football365"
+        },
+        {
+          "result": "D",
+          "opp": 1556,
+          "comp": "F",
+          "oppName": "Canada",
+          "date": "2026-03-31",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1761,
+          "comp": "F",
+          "oppName": "Brazilië",
+          "date": "2026-03-26",
+          "src": "fotmob"
+        },
+        {
+          "result": "D",
+          "opp": 1180,
+          "comp": "O",
+          "oppName": "Oeganda",
+          "date": "2025-12-28",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1050,
+          "comp": "O",
+          "oppName": "Namibië",
+          "date": "2025-12-24",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1130,
+          "comp": "O",
+          "oppName": "Tanzania",
+          "date": "2025-10-13",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1000,
+          "comp": "O",
+          "oppName": "Liberia",
+          "date": "2025-10-09",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1180,
+          "comp": "O",
+          "oppName": "Oeganda",
+          "date": "2025-09-08",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
+          "opp": 1050,
+          "comp": "O",
+          "oppName": "Namibië",
+          "date": "2025-09-05",
+          "src": "nbc"
+        }
+      ],
+      "Zweden": [
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "F",
+          "oppName": "Griekenland",
+          "date": "2026-06-04",
+          "src": "football365"
+        },
+        {
+          "result": "L",
+          "opp": 1550,
+          "comp": "F",
+          "oppName": "Noorwegen",
+          "date": "2026-06-01",
+          "src": "football365"
+        },
+        {
+          "result": "W",
+          "opp": 1530,
+          "comp": "O",
+          "oppName": "Polen",
+          "date": "2026-03-31",
+          "src": "espn"
+        },
+        {
+          "result": "W",
+          "opp": 1560,
+          "comp": "O",
+          "oppName": "Oekraïne",
+          "date": "2026-03-26",
+          "src": "espn"
+        },
+        {
+          "result": "L",
+          "opp": 1649,
+          "comp": "O",
+          "oppName": "Zwitserland",
+          "date": "2025-11-18",
+          "src": "uefa"
+        },
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Slovenië",
+          "date": "2025-11-15",
+          "src": "uefa"
+        },
+        {
+          "result": "L",
+          "opp": 1649,
+          "comp": "O",
+          "oppName": "Zwitserland",
+          "date": "2025-10-13",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Kosovo",
+          "date": "2025-10-10",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1280,
+          "comp": "O",
+          "oppName": "Kosovo",
+          "date": "2025-09-08",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
+          "opp": 1340,
+          "comp": "O",
+          "oppName": "Slovenië",
+          "date": "2025-09-05",
+          "src": "uefa"
+        }
       ]
     },
     "unavailable": {
@@ -527,6 +1962,9 @@
       ],
       "Argentinië": [
         "Leonardo Balerdi"
+      ],
+      "Canada": [
+        "Moïse Bombito"
       ]
     }
   }
