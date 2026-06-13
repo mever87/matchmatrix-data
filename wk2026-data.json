@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "updatedAt": "2026-06-13T15:12:37.504Z",
+  "version": 8,
+  "updatedAt": "2026-06-13T15:32:03.067Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -9,8 +9,8 @@
         "driverNeg": "Timber definitief afgehaakt met liesblessure, stroef oefenduel verloren van Algerije"
       },
       "Canada": {
-        "neg": 4,
-        "driverNeg": "Bombito afgehaakt met niet-herstelde beenbreuk, Davies in race tegen de klok voor de opener"
+        "neg": 3,
+        "driverNeg": "eerste WK-punt ooit tegen Bosnië maar Davies en Bombito ontbraken in de opener"
       },
       "Mexico": {
         "pos": 7,
@@ -51,6 +51,18 @@
       "Zuid-Korea": {
         "pos": 3,
         "driverPos": "winnende WK-start tegen Tsjechië na een achterstand, Hwang In-beom uitblinker"
+      },
+      "VS": {
+        "pos": 6,
+        "driverPos": "dominante 4-1 openingszege op Paraguay met twee goals van Balogun"
+      },
+      "Paraguay": {
+        "neg": 3,
+        "driverNeg": "kansloze 4-1 nederlaag tegen gastland VS in de opener"
+      },
+      "Ghana": {
+        "neg": 4,
+        "driverNeg": "vicekapitein Partey mist de opener tegen Panama nadat Canada zijn visum weigerde"
       }
     },
     "form": {
@@ -384,6 +396,14 @@
       "Canada": [
         {
           "result": "D",
+          "opp": 1385,
+          "comp": "O",
+          "oppName": "Bosnië-Herz.",
+          "date": "2026-06-12",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1366,
           "comp": "F",
           "oppName": "Ierland",
@@ -458,6 +478,14 @@
       "Bosnië-Herz.": [
         {
           "result": "D",
+          "opp": 1556,
+          "comp": "O",
+          "oppName": "Canada",
+          "date": "2026-06-12",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1540,
           "comp": "F",
           "oppName": "Panama",
@@ -527,17 +555,17 @@
           "oppName": "Cyprus",
           "date": "2025-03-24",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "O",
-          "oppName": "Roemenië",
-          "date": "2025-03-21",
-          "src": "nbc"
         }
       ],
       "VS": [
+        {
+          "result": "W",
+          "opp": 1503,
+          "comp": "O",
+          "oppName": "Paraguay",
+          "date": "2026-06-12",
+          "src": "cbs"
+        },
         {
           "result": "L",
           "opp": 1730,
@@ -609,17 +637,17 @@
           "oppName": "Japan",
           "date": "2025-09-09",
           "src": "fotmob"
-        },
-        {
-          "result": "L",
-          "opp": 1588,
-          "comp": "F",
-          "oppName": "Zuid-Korea",
-          "date": "2025-09-06",
-          "src": "fotmob"
         }
       ],
       "Paraguay": [
+        {
+          "result": "L",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "VS",
+          "date": "2026-06-12",
+          "src": "cbs"
+        },
         {
           "result": "W",
           "opp": 1050,
@@ -3853,7 +3881,48 @@
       "Zuid-Afrika": [
         "Yaya Sithole",
         "Themba Zwane"
+      ],
+      "Ghana": [
+        "Thomas Partey"
       ]
-    }
+    },
+    "results": [
+      {
+        "fase": "groep",
+        "home": "Mexico",
+        "away": "Zuid-Afrika",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-06-11",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Zuid-Korea",
+        "away": "Tsjechië",
+        "hg": 2,
+        "ag": 1,
+        "date": "2026-06-11",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Canada",
+        "away": "Bosnië-Herz.",
+        "hg": 1,
+        "ag": 1,
+        "date": "2026-06-12",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "VS",
+        "away": "Paraguay",
+        "hg": 4,
+        "ag": 1,
+        "date": "2026-06-12",
+        "src": "cbs"
+      }
+    ]
   }
 }
