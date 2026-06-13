@@ -1,62 +1,68 @@
 {
-  "version": 6,
-  "updatedAt": "2026-06-11T16:19:49.396Z",
+  "version": 7,
+  "updatedAt": "2026-06-13T15:12:37.504Z",
   "schema": 1,
   "data": {
     "buzz": {
       "Nederland": {
         "neg": 4,
-        "driverNeg": "Timber definitief afgehaakt met liesblessure, stroef oefenduel verloren van Algerije",
-        "pos": 6
+        "driverNeg": "Timber definitief afgehaakt met liesblessure, stroef oefenduel verloren van Algerije"
       },
       "Canada": {
         "neg": 4,
-        "driverNeg": "Bombito afgehaakt met niet-herstelde beenbreuk, Davies in race tegen de klok voor de opener",
-        "pos": 3
+        "driverNeg": "Bombito afgehaakt met niet-herstelde beenbreuk, Davies in race tegen de klok voor de opener"
       },
       "Mexico": {
-        "pos": 6,
-        "driverPos": "acht interlands ongeslagen, overtuigende 5-1 in de generale tegen Servië",
-        "neg": 4
+        "pos": 7,
+        "driverPos": "winnende WK-start tegen Zuid-Afrika in het Azteca, negen ongeslagen duels op rij"
       },
       "België": {
         "pos": 5,
-        "driverPos": "sterke slotweek met 2-0 uit bij Kroatië en 5-0 tegen Tunesië",
-        "neg": 5
+        "driverPos": "sterke slotweek met 2-0 uit bij Kroatië en 5-0 tegen Tunesië"
       },
       "Duitsland": {
         "pos": 7,
-        "driverPos": "overtuigende afsluiting met 4-0 tegen Finland en 2-1 uitzege op gastland VS",
-        "neg": 5
+        "driverPos": "overtuigende afsluiting met 4-0 tegen Finland en 2-1 uitzege op gastland VS"
       },
       "Tunesië": {
         "neg": 3,
-        "driverNeg": "pijnlijke 5-0 nederlaag tegen België in de generale week",
-        "pos": 3
+        "driverNeg": "pijnlijke 5-0 nederlaag tegen België in de generale week"
       },
       "Haïti": {
         "pos": 4,
-        "driverPos": "sterke generale week met zeges op Nieuw-Zeeland en Peru",
-        "neg": 1
+        "driverPos": "sterke generale week met zeges op Nieuw-Zeeland en Peru"
       },
       "Ivoorkust": {
         "pos": 6,
-        "driverPos": "AFCON-winnaar versloeg Frankrijk met 2-1 in de voorbereidingsweek",
-        "neg": 2
+        "driverPos": "AFCON-winnaar versloeg Frankrijk met 2-1 in de voorbereidingsweek"
       },
       "Argentinië": {
         "pos": 9,
-        "driverPos": "als nummer 1 van de nieuwe FIFA-ranglijst naar het WK, Messi terug en trefzeker tegen IJsland",
-        "neg": 3
+        "driverPos": "als nummer 1 van de nieuwe FIFA-ranglijst naar het WK, Messi terug en trefzeker tegen IJsland"
       },
       "Iran": {
         "neg": 5,
-        "driverNeg": "Amerikaanse visa voor de groepsduels nog niet rond, aanhoudende onzekerheid rond de toernooilogistiek",
-        "pos": 3
+        "driverNeg": "Amerikaanse visa voor de groepsduels nog niet rond, aanhoudende onzekerheid rond de toernooilogistiek"
+      },
+      "Zuid-Afrika": {
+        "neg": 4,
+        "driverNeg": "kansloze openingsnederlaag tegen Mexico en twee geschorste spelers voor het duel met Tsjechië"
+      },
+      "Zuid-Korea": {
+        "pos": 3,
+        "driverPos": "winnende WK-start tegen Tsjechië na een achterstand, Hwang In-beom uitblinker"
       }
     },
     "form": {
       "Mexico": [
+        {
+          "result": "W",
+          "opp": 1429,
+          "comp": "O",
+          "oppName": "Zuid-Afrika",
+          "date": "2026-06-11",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1505,
@@ -128,17 +134,17 @@
           "oppName": "Paraguay",
           "date": "2025-11-19",
           "src": "fotmob"
-        },
-        {
-          "result": "D",
-          "opp": 1673,
-          "comp": "F",
-          "oppName": "Uruguay",
-          "date": "2025-11-16",
-          "src": "fotmob"
         }
       ],
       "Zuid-Afrika": [
+        {
+          "result": "L",
+          "opp": 1681,
+          "comp": "O",
+          "oppName": "Mexico",
+          "date": "2026-06-11",
+          "src": "espn"
+        },
         {
           "result": "D",
           "opp": 1360,
@@ -209,17 +215,17 @@
           "oppName": "Rwanda",
           "date": "2025-10-14",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1100,
-          "comp": "O",
-          "oppName": "Benin",
-          "date": "2025-09-09",
-          "src": "nbc"
         }
       ],
       "Zuid-Korea": [
+        {
+          "result": "W",
+          "opp": 1501,
+          "comp": "O",
+          "oppName": "Tsjechië",
+          "date": "2026-06-11",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1290,
@@ -291,17 +297,17 @@
           "oppName": "Oman",
           "date": "2025-06-10",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1391,
-          "comp": "O",
-          "oppName": "Jordanië",
-          "date": "2025-06-05",
-          "src": "nbc"
         }
       ],
       "Tsjechië": [
+        {
+          "result": "L",
+          "opp": 1588,
+          "comp": "O",
+          "oppName": "Zuid-Korea",
+          "date": "2026-06-11",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1340,
@@ -372,14 +378,6 @@
           "comp": "O",
           "oppName": "Gibraltar",
           "date": "2025-09-09",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1350,
-          "comp": "O",
-          "oppName": "Montenegro",
-          "date": "2025-09-06",
           "src": "uefa"
         }
       ],
@@ -3798,21 +3796,63 @@
         }
       ]
     },
-    "unavailable": {
+    "squadChanges": {
       "Nederland": [
-        "Jurriën Timber"
+        {
+          "out": "Jurriën Timber",
+          "in": {
+            "naam": "Lutsharel Geertruida",
+            "positie": "Rechtervleugelverdediger",
+            "code": "RB",
+            "leeftijd": 25,
+            "club": "Sunderland AFC",
+            "marktwaardeMln": 20,
+            "nummer": 2
+          }
+        }
       ],
       "Duitsland": [
-        "Lennart Karl"
+        {
+          "out": "Lennart Karl",
+          "in": {
+            "naam": "Assan Ouédraogo",
+            "positie": "Centraal middenveld",
+            "code": "CM",
+            "leeftijd": 20,
+            "club": "RB Leipzig",
+            "marktwaardeMln": 28,
+            "nummer": 25
+          }
+        }
       ],
       "Brazilië": [
-        "Wesley"
-      ],
+        {
+          "out": "Wesley",
+          "in": {
+            "naam": "Éderson",
+            "positie": "Defensief middenveld",
+            "code": "DM",
+            "leeftijd": 26,
+            "club": "Atalanta BC",
+            "marktwaardeMln": 45,
+            "nummer": 2
+          }
+        }
+      ]
+    },
+    "unavailable": {
       "Argentinië": [
         "Leonardo Balerdi"
       ],
       "Canada": [
         "Moïse Bombito"
+      ],
+      "Mexico": [
+        "César Montes"
+      ],
+      "Zuid-Afrika": [
+        "Yaya Sithole",
+        "Themba Zwane"
       ]
     }
   }
