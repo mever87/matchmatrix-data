@@ -1,6 +1,6 @@
 {
-  "version": 12,
-  "updatedAt": "2026-06-19T07:51:25.066Z",
+  "version": 13,
+  "updatedAt": "2026-06-20T13:13:28.582Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -29,8 +29,8 @@
         "driverNeg": "opnieuw zwaar onderuit, 1-5 tegen Zweden na de eerdere nederlaag tegen België"
       },
       "Haïti": {
-        "neg": 3,
-        "driverNeg": "openingsnederlaag tegen Schotland, uitschakeling dreigt al vroeg"
+        "neg": 4,
+        "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
       },
       "Ivoorkust": {
         "pos": 6,
@@ -53,24 +53,24 @@
         "driverNeg": "tweede nederlaag op rij, 0-1 tegen Mexico, uitschakeling dreigt"
       },
       "VS": {
-        "pos": 6,
-        "driverPos": "dominante 4-1 openingszege op Paraguay met twee goals van Balogun"
+        "pos": 7,
+        "driverPos": "2-0 tegen Australië en als groepswinnaar geplaatst voor de knockoutfase"
       },
       "Paraguay": {
-        "neg": 3,
-        "driverNeg": "kansloze 4-1 nederlaag tegen gastland VS in de opener"
+        "pos": 4,
+        "driverPos": "herstel met een 1-0 zege op Turkije na een doelpunt in de openingsminuut"
       },
       "Ghana": {
         "pos": 4,
         "driverPos": "late 1-0 zege op Panama, Partey weer inzetbaar voor de volgende duels"
       },
       "Australië": {
-        "pos": 6,
-        "driverPos": "verrassende 2-0 zege op Turkije in de openingswedstrijd"
+        "pos": 4,
+        "driverPos": "nog altijd op koers ondanks de 0-2 nederlaag tegen gastland VS"
       },
       "Schotland": {
-        "pos": 5,
-        "driverPos": "eerste WK-zege sinds 1990, 1-0 tegen Haïti"
+        "neg": 3,
+        "driverNeg": "nipte 0-1 nederlaag tegen Marokko, momentum van de openingszege gebroken"
       },
       "Zweden": {
         "pos": 6,
@@ -163,6 +163,18 @@
       "Bosnië-Herz.": {
         "neg": 3,
         "driverNeg": "1-4 onderuit tegen Zwitserland in een cruciaal groepsduel"
+      },
+      "Marokko": {
+        "pos": 6,
+        "driverPos": "1-0 tegen Schotland via de snelste goal van het toernooi, koploper in groep C"
+      },
+      "Brazilië": {
+        "pos": 5,
+        "driverPos": "eerste WK-zege, vlot 3-0 tegen Haïti met een brace van Cunha"
+      },
+      "Turkije": {
+        "neg": 5,
+        "driverNeg": "uitgeschakeld na twee nederlagen, vroeg doelpunt geslikt tegen Paraguay"
       }
     },
     "form": {
@@ -660,6 +672,14 @@
       "VS": [
         {
           "result": "W",
+          "opp": 1580,
+          "comp": "O",
+          "oppName": "Australië",
+          "date": "2026-06-19",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
           "opp": 1503,
           "comp": "O",
           "oppName": "Paraguay",
@@ -729,17 +749,17 @@
           "oppName": "Ecuador",
           "date": "2025-10-11",
           "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1660,
-          "comp": "F",
-          "oppName": "Japan",
-          "date": "2025-09-09",
-          "src": "fotmob"
         }
       ],
       "Paraguay": [
+        {
+          "result": "W",
+          "opp": 1599,
+          "comp": "O",
+          "oppName": "Turkije",
+          "date": "2026-06-19",
+          "src": "yahoo"
+        },
         {
           "result": "L",
           "opp": 1673,
@@ -810,14 +830,6 @@
           "comp": "O",
           "oppName": "Peru",
           "date": "2025-09-09",
-          "src": "goal"
-        },
-        {
-          "result": "D",
-          "opp": 1594,
-          "comp": "O",
-          "oppName": "Ecuador",
-          "date": "2025-09-04",
           "src": "goal"
         }
       ],
@@ -987,6 +999,14 @@
       ],
       "Brazilië": [
         {
+          "result": "W",
+          "opp": 1291,
+          "comp": "O",
+          "oppName": "Haïti",
+          "date": "2026-06-19",
+          "src": "nbc"
+        },
+        {
           "result": "D",
           "opp": 1756,
           "comp": "O",
@@ -1057,17 +1077,17 @@
           "oppName": "Zuid-Korea",
           "date": "2025-10-14",
           "src": "fotmob"
-        },
-        {
-          "result": "L",
-          "opp": 1300,
-          "comp": "O",
-          "oppName": "Bolivia",
-          "date": "2025-09-09",
-          "src": "fotmob"
         }
       ],
       "Marokko": [
+        {
+          "result": "W",
+          "opp": 1498,
+          "comp": "O",
+          "oppName": "Schotland",
+          "date": "2026-06-19",
+          "src": "yahoo"
+        },
         {
           "result": "D",
           "opp": 1761,
@@ -1139,17 +1159,17 @@
           "oppName": "Mali",
           "date": "2025-12-26",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1150,
-          "comp": "O",
-          "oppName": "Comoren",
-          "date": "2025-12-21",
-          "src": "nbc"
         }
       ],
       "Australië": [
+        {
+          "result": "L",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "VS",
+          "date": "2026-06-19",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1599,
@@ -1221,17 +1241,17 @@
           "oppName": "China",
           "date": "2025-06-05",
           "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1110,
-          "comp": "O",
-          "oppName": "Indonesië",
-          "date": "2025-03-25",
-          "src": "nbc"
         }
       ],
       "Turkije": [
+        {
+          "result": "L",
+          "opp": 1503,
+          "comp": "O",
+          "oppName": "Paraguay",
+          "date": "2026-06-19",
+          "src": "yahoo"
+        },
         {
           "result": "L",
           "opp": 1580,
@@ -1303,17 +1323,17 @@
           "oppName": "Bulgarije",
           "date": "2025-10-11",
           "src": "uefa"
-        },
-        {
-          "result": "L",
-          "opp": 1877,
-          "comp": "O",
-          "oppName": "Spanje",
-          "date": "2025-09-07",
-          "src": "uefa"
         }
       ],
       "Haïti": [
+        {
+          "result": "L",
+          "opp": 1761,
+          "comp": "O",
+          "oppName": "Brazilië",
+          "date": "2026-06-19",
+          "src": "nbc"
+        },
         {
           "result": "L",
           "opp": 1498,
@@ -1389,6 +1409,14 @@
       ],
       "Schotland": [
         {
+          "result": "L",
+          "opp": 1756,
+          "comp": "O",
+          "oppName": "Marokko",
+          "date": "2026-06-19",
+          "src": "yahoo"
+        },
+        {
           "result": "W",
           "opp": 1291,
           "comp": "O",
@@ -1459,14 +1487,6 @@
           "oppName": "Denemarken",
           "date": "2025-09-05",
           "src": "nbc"
-        },
-        {
-          "result": "L",
-          "opp": 1532,
-          "comp": "F",
-          "oppName": "Ivoorkust",
-          "date": "2025-06-06",
-          "src": "fotmob"
         }
       ],
       "Duitsland": [
@@ -4354,6 +4374,42 @@
         "ag": 0,
         "date": "2026-06-18",
         "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "VS",
+        "away": "Australië",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-06-19",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Schotland",
+        "away": "Marokko",
+        "hg": 0,
+        "ag": 1,
+        "date": "2026-06-19",
+        "src": "yahoo"
+      },
+      {
+        "fase": "groep",
+        "home": "Brazilië",
+        "away": "Haïti",
+        "hg": 3,
+        "ag": 0,
+        "date": "2026-06-19",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Paraguay",
+        "away": "Turkije",
+        "hg": 1,
+        "ag": 0,
+        "date": "2026-06-19",
+        "src": "yahoo"
       }
     ]
   }
