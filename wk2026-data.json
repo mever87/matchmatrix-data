@@ -1,12 +1,12 @@
 {
-  "version": 13,
-  "updatedAt": "2026-06-20T13:13:28.582Z",
+  "version": 14,
+  "updatedAt": "2026-06-21T17:53:06.751Z",
   "schema": 1,
   "data": {
     "buzz": {
       "Nederland": {
-        "neg": 4,
-        "driverNeg": "teleurstellend 2-2 tegen Japan met een late gelijkmaker door een fout van Verbruggen"
+        "pos": 6,
+        "driverPos": "overtuigende 5-1 tegen Zweden met twee goals van Brobbey en twee van Gakpo, herstel na de stroeve opening"
       },
       "Canada": {
         "pos": 6,
@@ -21,20 +21,20 @@
         "driverNeg": "tegenvallend 1-1 tegen Egypte ondanks overwicht in de openingswedstrijd"
       },
       "Duitsland": {
-        "pos": 8,
-        "driverPos": "overtuigende 7-1 tegen Curaçao bij de WK-start, vloeiend en clinical"
+        "pos": 7,
+        "driverPos": "via een 2-1 op Ivoorkust met een winnende treffer in blessuretijd al zeker van de knockoutfase"
       },
       "Tunesië": {
-        "neg": 4,
-        "driverNeg": "opnieuw zwaar onderuit, 1-5 tegen Zweden na de eerdere nederlaag tegen België"
+        "neg": 6,
+        "driverNeg": "uitgeschakeld na een 0-4 tegen Japan, bondscoach Lamouchi werd al eerder ontslagen"
       },
       "Haïti": {
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
       },
       "Ivoorkust": {
-        "pos": 6,
-        "driverPos": "late zege op Ecuador in de WK-opener na de oefenzege op Frankrijk"
+        "neg": 3,
+        "driverNeg": "late 1-2 nederlaag tegen Duitsland door een treffer in blessuretijd"
       },
       "Argentinië": {
         "pos": 9,
@@ -73,16 +73,16 @@
         "driverNeg": "nipte 0-1 nederlaag tegen Marokko, momentum van de openingszege gebroken"
       },
       "Zweden": {
-        "pos": 6,
-        "driverPos": "vijf goals tegen Tunesië, beste WK-uithaal sinds 1938"
+        "neg": 3,
+        "driverNeg": "kansloos 1-5 onderuit tegen Nederland na de sterke eigen opening"
       },
       "Japan": {
-        "pos": 5,
-        "driverPos": "knap 2-2 tegen Nederland, status als verrassingsploeg bevestigd"
+        "pos": 6,
+        "driverPos": "vlotte 4-0 tegen Tunesië, sterke papieren voor een plek in de knockout"
       },
       "Curaçao": {
-        "neg": 4,
-        "driverNeg": "kansloos 1-7 tegen Duitsland bij het WK-debuut"
+        "pos": 5,
+        "driverPos": "historisch eerste WK-punt ooit, 0-0 tegen Ecuador dankzij een recordaantal reddingen van keeper Room"
       },
       "Spanje": {
         "neg": 4,
@@ -175,6 +175,10 @@
       "Turkije": {
         "neg": 5,
         "driverNeg": "uitgeschakeld na twee nederlagen, vroeg doelpunt geslikt tegen Paraguay"
+      },
+      "Ecuador": {
+        "neg": 3,
+        "driverNeg": "puntenverlies tegen debutant Curaçao, kwalificatie nu in gevaar"
       }
     },
     "form": {
@@ -1492,6 +1496,14 @@
       "Duitsland": [
         {
           "result": "W",
+          "opp": 1532,
+          "comp": "O",
+          "oppName": "Ivoorkust",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1294,
           "comp": "O",
           "oppName": "Curaçao",
@@ -1561,17 +1573,17 @@
           "oppName": "Luxemburg",
           "date": "2025-09-07",
           "src": "uefa"
-        },
-        {
-          "result": "L",
-          "opp": 1480,
-          "comp": "O",
-          "oppName": "Slowakije",
-          "date": "2025-09-04",
-          "src": "uefa"
         }
       ],
       "Curaçao": [
+        {
+          "result": "D",
+          "opp": 1594,
+          "comp": "O",
+          "oppName": "Ecuador",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1730,
@@ -1647,6 +1659,14 @@
       ],
       "Nederland": [
         {
+          "result": "W",
+          "opp": 1514,
+          "comp": "O",
+          "oppName": "Zweden",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1660,
           "comp": "O",
@@ -1717,17 +1737,17 @@
           "oppName": "Litouwen",
           "date": "2025-09-07",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1180,
-          "comp": "O",
-          "oppName": "Finland",
-          "date": "2025-09-04",
-          "src": "uefa"
         }
       ],
       "Japan": [
+        {
+          "result": "W",
+          "opp": 1483,
+          "comp": "O",
+          "oppName": "Tunesië",
+          "date": "2026-06-20",
+          "src": "cbs"
+        },
         {
           "result": "D",
           "opp": 1758,
@@ -1799,17 +1819,17 @@
           "oppName": "China",
           "date": "2025-06-10",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1130,
-          "comp": "O",
-          "oppName": "Bahrein",
-          "date": "2025-06-05",
-          "src": "nbc"
         }
       ],
       "Ivoorkust": [
+        {
+          "result": "L",
+          "opp": 1730,
+          "comp": "O",
+          "oppName": "Duitsland",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1594,
@@ -1881,17 +1901,17 @@
           "oppName": "Kenia",
           "date": "2025-10-14",
           "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 900,
-          "comp": "O",
-          "oppName": "Seychellen",
-          "date": "2025-10-10",
-          "src": "espn"
         }
       ],
       "Ecuador": [
+        {
+          "result": "D",
+          "opp": 1294,
+          "comp": "O",
+          "oppName": "Curaçao",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1532,
@@ -1963,17 +1983,17 @@
           "oppName": "Paraguay",
           "date": "2025-09-04",
           "src": "goal"
-        },
-        {
-          "result": "D",
-          "opp": 1400,
-          "comp": "O",
-          "oppName": "Peru",
-          "date": "2025-06-10",
-          "src": "fotmob"
         }
       ],
       "Tunesië": [
+        {
+          "result": "L",
+          "opp": 1660,
+          "comp": "O",
+          "oppName": "Japan",
+          "date": "2026-06-20",
+          "src": "cbs"
+        },
         {
           "result": "L",
           "opp": 1514,
@@ -2045,17 +2065,17 @@
           "oppName": "Liberia",
           "date": "2025-10-09",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1180,
-          "comp": "O",
-          "oppName": "Oeganda",
-          "date": "2025-09-08",
-          "src": "nbc"
         }
       ],
       "Zweden": [
+        {
+          "result": "L",
+          "opp": 1758,
+          "comp": "O",
+          "oppName": "Nederland",
+          "date": "2026-06-20",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1483,
@@ -2126,14 +2146,6 @@
           "comp": "O",
           "oppName": "Kosovo",
           "date": "2025-10-10",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1280,
-          "comp": "O",
-          "oppName": "Kosovo",
-          "date": "2025-09-08",
           "src": "nbc"
         }
       ],
@@ -4410,6 +4422,42 @@
         "ag": 0,
         "date": "2026-06-19",
         "src": "yahoo"
+      },
+      {
+        "fase": "groep",
+        "home": "Nederland",
+        "away": "Zweden",
+        "hg": 5,
+        "ag": 1,
+        "date": "2026-06-20",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Duitsland",
+        "away": "Ivoorkust",
+        "hg": 2,
+        "ag": 1,
+        "date": "2026-06-20",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Ecuador",
+        "away": "Curaçao",
+        "hg": 0,
+        "ag": 0,
+        "date": "2026-06-20",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Tunesië",
+        "away": "Japan",
+        "hg": 0,
+        "ag": 4,
+        "date": "2026-06-20",
+        "src": "cbs"
       }
     ]
   }
