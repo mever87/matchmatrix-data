@@ -1,6 +1,6 @@
 {
-  "version": 14,
-  "updatedAt": "2026-06-21T17:53:06.751Z",
+  "version": 15,
+  "updatedAt": "2026-06-22T19:12:03.719Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -17,8 +17,8 @@
         "driverPos": "twee zeges uit twee duels en als eerste land geplaatst voor de knockoutfase"
       },
       "België": {
-        "neg": 3,
-        "driverNeg": "tegenvallend 1-1 tegen Egypte ondanks overwicht in de openingswedstrijd"
+        "neg": 5,
+        "driverNeg": "tweede gelijkspel op rij, 0-0 tegen tien man van Iran na de rode kaart van Ngoy, plaatsing in gevaar"
       },
       "Duitsland": {
         "pos": 7,
@@ -41,8 +41,8 @@
         "driverPos": "Messi opent met een hattrick tegen Algerije en komt op gedeeld eerste plaats van de WK-topscorers aller tijden"
       },
       "Iran": {
-        "neg": 4,
-        "driverNeg": "teleurstellend 2-2 tegen Nieuw-Zeeland, de laagst geklasseerde ploeg in de poule"
+        "pos": 4,
+        "driverPos": "knap 0-0 tegen België met een uitblinkende keeper Beiranvand, nog volop kans op de knockout"
       },
       "Zuid-Afrika": {
         "neg": 4,
@@ -85,28 +85,28 @@
         "driverPos": "historisch eerste WK-punt ooit, 0-0 tegen Ecuador dankzij een recordaantal reddingen van keeper Room"
       },
       "Spanje": {
-        "neg": 4,
-        "driverNeg": "moeizaam 0-0 tegen WK-debutant Kaapverdië, een van de grootste verrassingen van het toernooi tot nu toe"
+        "pos": 5,
+        "driverPos": "herstel met een 4-0 op Saoedi-Arabië, Yamal terug in de basis en meteen trefzeker"
       },
       "Kaapverdië": {
-        "pos": 6,
-        "driverPos": "historisch punt tegen titelkandidaat Spanje bij het allereerste WK-optreden"
+        "pos": 7,
+        "driverPos": "alweer een stunt met 2-2 tegen Uruguay, vier punten uit twee duels bij het WK-debuut"
       },
       "Egypte": {
-        "pos": 5,
-        "driverPos": "knap 1-1 tegen België met Salah, eerste WK-punt in jaren"
+        "pos": 6,
+        "driverPos": "eerste WK-zege ooit, knappe 3-1 comeback tegen Nieuw-Zeeland met goal en assist van Salah"
       },
       "Saoedi-Arabië": {
-        "pos": 5,
-        "driverPos": "verdiend 1-1 tegen Uruguay na een vroege voorsprong"
+        "neg": 3,
+        "driverNeg": "kansloos 0-4 onderuit tegen een herboren Spanje"
       },
       "Nieuw-Zeeland": {
-        "pos": 4,
-        "driverPos": "knap 2-2 tegen Iran, sterke start voor de outsider van de poule"
+        "neg": 3,
+        "driverNeg": "1-3 nederlaag tegen Egypte, uitschakeling dreigt na een goede start"
       },
       "Uruguay": {
-        "neg": 3,
-        "driverNeg": "moeizaam 1-1 tegen Saoedi-Arabië, punten verspeeld na een achterstand"
+        "neg": 4,
+        "driverNeg": "opnieuw gelijk, 2-2 tegen debutant Kaapverdië, kwalificatie nu onzeker onder Bielsa"
       },
       "Noorwegen": {
         "pos": 6,
@@ -2151,6 +2151,14 @@
       ],
       "Spanje": [
         {
+          "result": "W",
+          "opp": 1421,
+          "comp": "O",
+          "oppName": "Saoedi-Arabië",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1366,
           "comp": "O",
@@ -2220,14 +2228,6 @@
           "comp": "O",
           "oppName": "Georgië",
           "date": "2025-10-11",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1599,
-          "comp": "O",
-          "oppName": "Turkije",
-          "date": "2025-09-07",
           "src": "fourfourtwo"
         }
       ],
@@ -2398,6 +2398,14 @@
       "België": [
         {
           "result": "D",
+          "opp": 1615,
+          "comp": "O",
+          "oppName": "Iran",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1563,
           "comp": "O",
           "oppName": "Egypte",
@@ -2466,14 +2474,6 @@
           "comp": "O",
           "oppName": "Kazachstan",
           "date": "2025-09-07",
-          "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1450,
-          "comp": "O",
-          "oppName": "Wales",
-          "date": "2025-06-09",
           "src": "uefa"
         }
       ],
@@ -2889,6 +2889,14 @@
       ],
       "Egypte": [
         {
+          "result": "W",
+          "opp": 1281,
+          "comp": "O",
+          "oppName": "Nieuw-Zeeland",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1735,
           "comp": "O",
@@ -2958,14 +2966,6 @@
           "comp": "O",
           "oppName": "Zimbabwe",
           "date": "2025-12-22",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1080,
-          "comp": "O",
-          "oppName": "Ethiopië",
-          "date": "2025-09-08",
           "src": "nbc"
         }
       ],
@@ -3136,6 +3136,14 @@
       "Kaapverdië": [
         {
           "result": "D",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "Uruguay",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1876,
           "comp": "O",
           "oppName": "Spanje",
@@ -3210,6 +3218,14 @@
       "Iran": [
         {
           "result": "D",
+          "opp": 1735,
+          "comp": "O",
+          "oppName": "België",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1281,
           "comp": "O",
           "oppName": "Nieuw-Zeeland",
@@ -3279,17 +3295,17 @@
           "oppName": "Oezbekistan",
           "date": "2025-06-05",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1151,
-          "comp": "O",
-          "oppName": "Noord-Korea",
-          "date": "2025-03-25",
-          "src": "nbc"
         }
       ],
       "Saoedi-Arabië": [
+        {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
         {
           "result": "D",
           "opp": 1673,
@@ -3360,14 +3376,6 @@
           "comp": "O",
           "oppName": "Bahrein",
           "date": "2025-06-05",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1549,
-          "comp": "O",
-          "oppName": "Australië",
-          "date": "2025-03-25",
           "src": "nbc"
         }
       ],
@@ -3947,6 +3955,14 @@
       ],
       "Nieuw-Zeeland": [
         {
+          "result": "L",
+          "opp": 1563,
+          "comp": "O",
+          "oppName": "Egypte",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1615,
           "comp": "O",
@@ -4020,6 +4036,14 @@
         }
       ],
       "Uruguay": [
+        {
+          "result": "D",
+          "opp": 1366,
+          "comp": "O",
+          "oppName": "Kaapverdië",
+          "date": "2026-06-21",
+          "src": "espn"
+        },
         {
           "result": "D",
           "opp": 1421,
@@ -4132,6 +4156,9 @@
       ],
       "Qatar": [
         "Assim Madibo"
+      ],
+      "België": [
+        "Nathan Ngoy"
       ]
     },
     "results": [
@@ -4458,6 +4485,42 @@
         "ag": 4,
         "date": "2026-06-20",
         "src": "cbs"
+      },
+      {
+        "fase": "groep",
+        "home": "Spanje",
+        "away": "Saoedi-Arabië",
+        "hg": 4,
+        "ag": 0,
+        "date": "2026-06-21",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Uruguay",
+        "away": "Kaapverdië",
+        "hg": 2,
+        "ag": 2,
+        "date": "2026-06-21",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "België",
+        "away": "Iran",
+        "hg": 0,
+        "ag": 0,
+        "date": "2026-06-21",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Nieuw-Zeeland",
+        "away": "Egypte",
+        "hg": 1,
+        "ag": 3,
+        "date": "2026-06-21",
+        "src": "espn"
       }
     ]
   }
