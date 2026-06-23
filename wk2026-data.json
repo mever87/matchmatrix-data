@@ -1,6 +1,6 @@
 {
-  "version": 15,
-  "updatedAt": "2026-06-22T19:12:03.719Z",
+  "version": 16,
+  "updatedAt": "2026-06-23T15:10:48.966Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -38,7 +38,7 @@
       },
       "Argentinië": {
         "pos": 9,
-        "driverPos": "Messi opent met een hattrick tegen Algerije en komt op gedeeld eerste plaats van de WK-topscorers aller tijden"
+        "driverPos": "Messi wordt met zijn 17e en 18e WK-goal alleen recordhouder aller tijden, 2-0 tegen Oostenrijk en geplaatst voor de knockout"
       },
       "Iran": {
         "pos": 4,
@@ -109,28 +109,28 @@
         "driverNeg": "opnieuw gelijk, 2-2 tegen debutant Kaapverdië, kwalificatie nu onzeker onder Bielsa"
       },
       "Noorwegen": {
-        "pos": 6,
-        "driverPos": "vlotte 4-1 tegen Irak bij de WK-rentree na 28 jaar, Haaland meteen twee keer trefzeker"
+        "pos": 7,
+        "driverPos": "3-2 tegen Senegal en geplaatst voor de knockout, Haaland opnieuw twee keer trefzeker"
       },
       "Frankrijk": {
-        "pos": 6,
-        "driverPos": "overtuigende 3-1 tegen Senegal met twee goals van Mbappé"
+        "pos": 7,
+        "driverPos": "tweede zege op rij, 3-0 tegen Irak en al zeker van de laatste 32, Mbappé in bloedvorm"
       },
       "Oostenrijk": {
-        "pos": 5,
-        "driverPos": "degelijke 3-1 tegen Jordanië bij de terugkeer op het WK"
+        "pos": 3,
+        "driverPos": "ondanks de 0-2 tegen wereldkampioen Argentinië nog volop kans op de knockout"
       },
       "Senegal": {
-        "neg": 3,
-        "driverNeg": "kansloos 1-3 onderuit tegen Frankrijk in de openingswedstrijd"
+        "neg": 4,
+        "driverNeg": "tweede nederlaag op rij, 2-3 tegen Noorwegen, plaatsing alleen nog mogelijk als beste nummer drie"
       },
       "Algerije": {
-        "neg": 3,
-        "driverNeg": "0-3 nederlaag tegen Argentinië, overklast door een trefzekere Messi"
+        "pos": 4,
+        "driverPos": "knappe comeback naar 2-1 tegen Jordanië, eerste punten en weer kans op de knockout"
       },
       "Jordanië": {
-        "neg": 3,
-        "driverNeg": "historisch WK-debuut bedorven door een 1-3 nederlaag tegen Oostenrijk"
+        "neg": 4,
+        "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
         "pos": 6,
@@ -179,6 +179,10 @@
       "Ecuador": {
         "neg": 3,
         "driverNeg": "puntenverlies tegen debutant Curaçao, kwalificatie nu in gevaar"
+      },
+      "Irak": {
+        "neg": 4,
+        "driverNeg": "kansloos 0-3 tegen Frankrijk, na twee nederlagen vrijwel uitgeschakeld"
       }
     },
     "form": {
@@ -2234,6 +2238,14 @@
       "Frankrijk": [
         {
           "result": "W",
+          "opp": 1447,
+          "comp": "O",
+          "oppName": "Irak",
+          "date": "2026-06-22",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1689,
           "comp": "O",
           "oppName": "Senegal",
@@ -2302,14 +2314,6 @@
           "comp": "O",
           "oppName": "Azerbeidzjan",
           "date": "2025-10-10",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1281,
-          "comp": "O",
-          "oppName": "IJsland",
-          "date": "2025-09-09",
           "src": "fourfourtwo"
         }
       ],
@@ -2643,6 +2647,14 @@
       ],
       "Oostenrijk": [
         {
+          "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-06-22",
+          "src": "nbc"
+        },
+        {
           "result": "W",
           "opp": 1391,
           "comp": "O",
@@ -2713,17 +2725,17 @@
           "oppName": "Bosnië-Herz.",
           "date": "2025-09-09",
           "src": "sportskeeda"
-        },
-        {
-          "result": "W",
-          "opp": 750,
-          "comp": "O",
-          "oppName": "San Marino",
-          "date": "2025-09-06",
-          "src": "uefa"
         }
       ],
       "Noorwegen": [
+        {
+          "result": "W",
+          "opp": 1689,
+          "comp": "O",
+          "oppName": "Senegal",
+          "date": "2026-06-22",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1447,
@@ -2795,17 +2807,17 @@
           "oppName": "Israël",
           "date": "2025-09-06",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1560,
-          "comp": "O",
-          "oppName": "Italië",
-          "date": "2025-06-06",
-          "src": "nbc"
         }
       ],
       "Senegal": [
+        {
+          "result": "L",
+          "opp": 1550,
+          "comp": "O",
+          "oppName": "Noorwegen",
+          "date": "2026-06-22",
+          "src": "nbc"
+        },
         {
           "result": "L",
           "opp": 1877,
@@ -2876,14 +2888,6 @@
           "comp": "O",
           "oppName": "Soedan",
           "date": "2025-09-05",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1147,
-          "comp": "O",
-          "oppName": "Togo",
-          "date": "2025-03-25",
           "src": "nbc"
         }
       ],
@@ -2971,6 +2975,14 @@
       ],
       "Algerije": [
         {
+          "result": "W",
+          "opp": 1391,
+          "comp": "O",
+          "oppName": "Jordanië",
+          "date": "2026-06-22",
+          "src": "cbs"
+        },
+        {
           "result": "L",
           "opp": 1875,
           "comp": "O",
@@ -3040,14 +3052,6 @@
           "comp": "O",
           "oppName": "DR Congo",
           "date": "2025-10-09",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1224,
-          "comp": "O",
-          "oppName": "Mozambique",
-          "date": "2025-09-08",
           "src": "nbc"
         }
       ],
@@ -3382,6 +3386,14 @@
       "Jordanië": [
         {
           "result": "L",
+          "opp": 1564,
+          "comp": "O",
+          "oppName": "Algerije",
+          "date": "2026-06-22",
+          "src": "cbs"
+        },
+        {
+          "result": "L",
           "opp": 1593,
           "comp": "O",
           "oppName": "Oostenrijk",
@@ -3450,14 +3462,6 @@
           "comp": "O",
           "oppName": "Oman",
           "date": "2025-06-05",
-          "src": "nbc"
-        },
-        {
-          "result": "L",
-          "opp": 1588,
-          "comp": "O",
-          "oppName": "Zuid-Korea",
-          "date": "2025-03-25",
           "src": "nbc"
         }
       ],
@@ -3546,6 +3550,14 @@
       "Irak": [
         {
           "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-06-22",
+          "src": "espn"
+        },
+        {
+          "result": "L",
           "opp": 1550,
           "comp": "O",
           "oppName": "Noorwegen",
@@ -3615,17 +3627,17 @@
           "oppName": "Oman",
           "date": "2025-10-09",
           "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1391,
-          "comp": "O",
-          "oppName": "Jordanië",
-          "date": "2025-06-10",
-          "src": "nbc"
         }
       ],
       "Argentinië": [
+        {
+          "result": "W",
+          "opp": 1593,
+          "comp": "O",
+          "oppName": "Oostenrijk",
+          "date": "2026-06-22",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1564,
@@ -3696,14 +3708,6 @@
           "comp": "O",
           "oppName": "Chili",
           "date": "2025-06-05",
-          "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1761,
-          "comp": "O",
-          "oppName": "Brazilië",
-          "date": "2025-03-25",
           "src": "goal"
         }
       ],
@@ -4521,6 +4525,42 @@
         "ag": 3,
         "date": "2026-06-21",
         "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Argentinië",
+        "away": "Oostenrijk",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-06-22",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Frankrijk",
+        "away": "Irak",
+        "hg": 3,
+        "ag": 0,
+        "date": "2026-06-22",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Noorwegen",
+        "away": "Senegal",
+        "hg": 3,
+        "ag": 2,
+        "date": "2026-06-22",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Jordanië",
+        "away": "Algerije",
+        "hg": 1,
+        "ag": 2,
+        "date": "2026-06-22",
+        "src": "cbs"
       }
     ]
   }
