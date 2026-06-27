@@ -1,6 +1,6 @@
 {
-  "version": 19,
-  "updatedAt": "2026-06-26T05:46:15.699Z",
+  "version": 20,
+  "updatedAt": "2026-06-27T06:39:51.523Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -17,8 +17,8 @@
         "driverPos": "perfecte groepsfase met 3-0 tegen Tsjechië, negen punten uit drie duels en ongeslagen naar de knockout"
       },
       "België": {
-        "neg": 5,
-        "driverNeg": "tweede gelijkspel op rij, 0-0 tegen tien man van Iran na de rode kaart van Ngoy, plaatsing in gevaar"
+        "pos": 6,
+        "driverPos": "van crisis naar groepswinnaar, 5-1 tegen Nieuw-Zeeland met Lukaku weer trefzeker"
       },
       "Duitsland": {
         "pos": 5,
@@ -41,8 +41,8 @@
         "driverPos": "Messi wordt met zijn 17e en 18e WK-goal alleen recordhouder aller tijden, 2-0 tegen Oostenrijk en geplaatst voor de knockout"
       },
       "Iran": {
-        "pos": 4,
-        "driverPos": "knap 0-0 tegen België met een uitblinkende keeper Beiranvand, nog volop kans op de knockout"
+        "neg": 3,
+        "driverNeg": "1-1 tegen Egypte met een door VAR afgekeurde winner, plaatsing nu onzeker als nummer drie"
       },
       "Zuid-Afrika": {
         "pos": 4,
@@ -85,44 +85,44 @@
         "driverPos": "uitgeschakeld na 0-2 tegen Ivoorkust, maar een historisch WK-debuut met een punt"
       },
       "Spanje": {
-        "pos": 5,
-        "driverPos": "herstel met een 4-0 op Saoedi-Arabië, Yamal terug in de basis en meteen trefzeker"
+        "pos": 6,
+        "driverPos": "1-0 tegen Uruguay en groepswinnaar, Yamal en co groeien in het toernooi"
       },
       "Kaapverdië": {
-        "pos": 7,
-        "driverPos": "alweer een stunt met 2-2 tegen Uruguay, vier punten uit twee duels bij het WK-debuut"
+        "pos": 8,
+        "driverPos": "sprookje compleet, via een 0-0 tegen Saoedi-Arabië als WK-debutant door naar de knockout"
       },
       "Egypte": {
-        "pos": 6,
-        "driverPos": "eerste WK-zege ooit, knappe 3-1 comeback tegen Nieuw-Zeeland met goal en assist van Salah"
+        "pos": 5,
+        "driverPos": "1-1 tegen Iran en als tweede door, al is er zorg over een afgezwaaide Salah met de hamstring"
       },
       "Saoedi-Arabië": {
-        "neg": 3,
-        "driverNeg": "kansloos 0-4 onderuit tegen een herboren Spanje"
+        "neg": 4,
+        "driverNeg": "uitgeschakeld na een 0-0 tegen Kaapverdië"
       },
       "Nieuw-Zeeland": {
         "neg": 3,
         "driverNeg": "1-3 nederlaag tegen Egypte, uitschakeling dreigt na een goede start"
       },
       "Uruguay": {
-        "neg": 4,
-        "driverNeg": "opnieuw gelijk, 2-2 tegen debutant Kaapverdië, kwalificatie nu onzeker onder Bielsa"
+        "neg": 5,
+        "driverNeg": "uitgeschakeld in de groepsfase na een 0-1 tegen Spanje, tegenvaller voor de tweevoudig wereldkampioen"
       },
       "Noorwegen": {
-        "pos": 7,
-        "driverPos": "3-2 tegen Senegal en geplaatst voor de knockout, Haaland opnieuw twee keer trefzeker"
+        "pos": 5,
+        "driverPos": "als tweede door ondanks een 1-4 tegen Frankrijk met een gespaarde Haaland"
       },
       "Frankrijk": {
-        "pos": 7,
-        "driverPos": "tweede zege op rij, 3-0 tegen Irak en al zeker van de laatste 32, Mbappé in bloedvorm"
+        "pos": 8,
+        "driverPos": "4-1 tegen Noorwegen en groepswinnaar, een hattrick van Dembélé onderstreept de diepte"
       },
       "Oostenrijk": {
         "pos": 3,
         "driverPos": "ondanks de 0-2 tegen wereldkampioen Argentinië nog volop kans op de knockout"
       },
       "Senegal": {
-        "neg": 4,
-        "driverNeg": "tweede nederlaag op rij, 2-3 tegen Noorwegen, plaatsing alleen nog mogelijk als beste nummer drie"
+        "pos": 4,
+        "driverPos": "5-0 tegen tien man van Irak, knockout binnen handbereik als beste nummer drie"
       },
       "Algerije": {
         "pos": 4,
@@ -181,8 +181,8 @@
         "driverPos": "stunt met 2-1 tegen Duitsland en knap door naar de knockout"
       },
       "Irak": {
-        "neg": 4,
-        "driverNeg": "kansloos 0-3 tegen Frankrijk, na twee nederlagen vrijwel uitgeschakeld"
+        "neg": 5,
+        "driverNeg": "uitgeschakeld na een 0-5 tegen Senegal, vroege rode kaart brak de ploeg"
       },
       "Oezbekistan": {
         "neg": 4,
@@ -2168,6 +2168,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "Uruguay",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
           "opp": 1421,
           "comp": "O",
           "oppName": "Saoedi-Arabië",
@@ -2237,17 +2245,17 @@
           "oppName": "Bulgarije",
           "date": "2025-10-14",
           "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1300,
-          "comp": "O",
-          "oppName": "Georgië",
-          "date": "2025-10-11",
-          "src": "fourfourtwo"
         }
       ],
       "Frankrijk": [
+        {
+          "result": "W",
+          "opp": 1550,
+          "comp": "O",
+          "oppName": "Noorwegen",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1447,
@@ -2318,14 +2326,6 @@
           "comp": "O",
           "oppName": "IJsland",
           "date": "2025-10-13",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1150,
-          "comp": "O",
-          "oppName": "Azerbeidzjan",
-          "date": "2025-10-10",
           "src": "fourfourtwo"
         }
       ],
@@ -2413,6 +2413,14 @@
       ],
       "België": [
         {
+          "result": "W",
+          "opp": 1281,
+          "comp": "O",
+          "oppName": "Nieuw-Zeeland",
+          "date": "2026-06-26",
+          "src": "yahoo"
+        },
+        {
           "result": "D",
           "opp": 1615,
           "comp": "O",
@@ -2482,14 +2490,6 @@
           "comp": "O",
           "oppName": "Noord-Macedonië",
           "date": "2025-10-10",
-          "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1180,
-          "comp": "O",
-          "oppName": "Kazachstan",
-          "date": "2025-09-07",
           "src": "uefa"
         }
       ],
@@ -2741,6 +2741,14 @@
       ],
       "Noorwegen": [
         {
+          "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
+        {
           "result": "W",
           "opp": 1689,
           "comp": "O",
@@ -2811,17 +2819,17 @@
           "oppName": "Estland",
           "date": "2025-09-09",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1350,
-          "comp": "O",
-          "oppName": "Israël",
-          "date": "2025-09-06",
-          "src": "uefa"
         }
       ],
       "Senegal": [
+        {
+          "result": "W",
+          "opp": 1447,
+          "comp": "O",
+          "oppName": "Irak",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
         {
           "result": "L",
           "opp": 1550,
@@ -2893,17 +2901,17 @@
           "oppName": "Benin",
           "date": "2025-09-09",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1157,
-          "comp": "O",
-          "oppName": "Soedan",
-          "date": "2025-09-05",
-          "src": "nbc"
         }
       ],
       "Egypte": [
+        {
+          "result": "D",
+          "opp": 1615,
+          "comp": "O",
+          "oppName": "Iran",
+          "date": "2026-06-26",
+          "src": "yahoo"
+        },
         {
           "result": "W",
           "opp": 1281,
@@ -2974,14 +2982,6 @@
           "comp": "O",
           "oppName": "Zuid-Afrika",
           "date": "2025-12-26",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1150,
-          "comp": "O",
-          "oppName": "Zimbabwe",
-          "date": "2025-12-22",
           "src": "nbc"
         }
       ],
@@ -3152,6 +3152,14 @@
       "Kaapverdië": [
         {
           "result": "D",
+          "opp": 1421,
+          "comp": "O",
+          "oppName": "Saoedi-Arabië",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
+        {
+          "result": "D",
           "opp": 1673,
           "comp": "O",
           "oppName": "Uruguay",
@@ -3221,17 +3229,17 @@
           "oppName": "Mauritius",
           "date": "2025-09-04",
           "src": "espn"
-        },
-        {
-          "result": "D",
-          "opp": 1350,
-          "comp": "F",
-          "oppName": "Georgië",
-          "date": "2025-06-08",
-          "src": "espn"
         }
       ],
       "Iran": [
+        {
+          "result": "D",
+          "opp": 1563,
+          "comp": "O",
+          "oppName": "Egypte",
+          "date": "2026-06-26",
+          "src": "yahoo"
+        },
         {
           "result": "D",
           "opp": 1735,
@@ -3303,17 +3311,17 @@
           "oppName": "VAE",
           "date": "2025-06-10",
           "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1465,
-          "comp": "O",
-          "oppName": "Oezbekistan",
-          "date": "2025-06-05",
-          "src": "nbc"
         }
       ],
       "Saoedi-Arabië": [
+        {
+          "result": "D",
+          "opp": 1366,
+          "comp": "O",
+          "oppName": "Kaapverdië",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
         {
           "result": "L",
           "opp": 1876,
@@ -3384,14 +3392,6 @@
           "comp": "O",
           "oppName": "China",
           "date": "2025-06-10",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1258,
-          "comp": "O",
-          "oppName": "Bahrein",
-          "date": "2025-06-05",
           "src": "nbc"
         }
       ],
@@ -3562,6 +3562,14 @@
       "Irak": [
         {
           "result": "L",
+          "opp": 1689,
+          "comp": "O",
+          "oppName": "Senegal",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
+        {
+          "result": "L",
           "opp": 1877,
           "comp": "O",
           "oppName": "Frankrijk",
@@ -3630,14 +3638,6 @@
           "comp": "O",
           "oppName": "Saoedi-Arabië",
           "date": "2025-10-14",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1313,
-          "comp": "O",
-          "oppName": "Oman",
-          "date": "2025-10-09",
           "src": "nbc"
         }
       ],
@@ -3972,6 +3972,14 @@
       "Nieuw-Zeeland": [
         {
           "result": "L",
+          "opp": 1735,
+          "comp": "O",
+          "oppName": "België",
+          "date": "2026-06-26",
+          "src": "yahoo"
+        },
+        {
+          "result": "L",
           "opp": 1563,
           "comp": "O",
           "oppName": "Egypte",
@@ -4041,17 +4049,17 @@
           "oppName": "Nieuw-Caledonië",
           "date": "2025-03-24",
           "src": "ofc"
-        },
-        {
-          "result": "W",
-          "opp": 950,
-          "comp": "O",
-          "oppName": "Fiji",
-          "date": "2025-03-21",
-          "src": "ofc"
         }
       ],
       "Uruguay": [
+        {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-06-26",
+          "src": "nbc"
+        },
         {
           "result": "D",
           "opp": 1366,
@@ -4169,9 +4177,6 @@
       "Canada": [
         "Moïse Bombito",
         "Ismaël Koné"
-      ],
-      "België": [
-        "Nathan Ngoy"
       ]
     },
     "results": [
@@ -4714,6 +4719,60 @@
         "ag": 1,
         "date": "2026-06-25",
         "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Egypte",
+        "away": "Iran",
+        "hg": 1,
+        "ag": 1,
+        "date": "2026-06-26",
+        "src": "yahoo"
+      },
+      {
+        "fase": "groep",
+        "home": "Nieuw-Zeeland",
+        "away": "België",
+        "hg": 1,
+        "ag": 5,
+        "date": "2026-06-26",
+        "src": "yahoo"
+      },
+      {
+        "fase": "groep",
+        "home": "Kaapverdië",
+        "away": "Saoedi-Arabië",
+        "hg": 0,
+        "ag": 0,
+        "date": "2026-06-26",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Uruguay",
+        "away": "Spanje",
+        "hg": 0,
+        "ag": 1,
+        "date": "2026-06-26",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Noorwegen",
+        "away": "Frankrijk",
+        "hg": 1,
+        "ag": 4,
+        "date": "2026-06-26",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Senegal",
+        "away": "Irak",
+        "hg": 5,
+        "ag": 0,
+        "date": "2026-06-26",
+        "src": "nbc"
       }
     ]
   }
