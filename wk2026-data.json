@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "updatedAt": "2026-06-27T06:39:51.523Z",
+  "version": 21,
+  "updatedAt": "2026-06-28T07:37:27.761Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -38,7 +38,7 @@
       },
       "Argentinië": {
         "pos": 9,
-        "driverPos": "Messi wordt met zijn 17e en 18e WK-goal alleen recordhouder aller tijden, 2-0 tegen Oostenrijk en geplaatst voor de knockout"
+        "driverPos": "perfecte groepsfase met negen punten na 3-1 tegen Jordanië, Messi scoort in een record zevende WK-duel op rij"
       },
       "Iran": {
         "neg": 3,
@@ -117,48 +117,48 @@
         "driverPos": "4-1 tegen Noorwegen en groepswinnaar, een hattrick van Dembélé onderstreept de diepte"
       },
       "Oostenrijk": {
-        "pos": 3,
-        "driverPos": "ondanks de 0-2 tegen wereldkampioen Argentinië nog volop kans op de knockout"
+        "pos": 5,
+        "driverPos": "3-3 tegen Algerije met een gelijkmaker in de absolute slotfase, ternauwernood door naar de knockout"
       },
       "Senegal": {
         "pos": 4,
         "driverPos": "5-0 tegen tien man van Irak, knockout binnen handbereik als beste nummer drie"
       },
       "Algerije": {
-        "pos": 4,
-        "driverPos": "knappe comeback naar 2-1 tegen Jordanië, eerste punten en weer kans op de knockout"
+        "pos": 5,
+        "driverPos": "3-3 tegen Oostenrijk en door als een van de beste nummers drie"
       },
       "Jordanië": {
         "neg": 4,
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
-        "pos": 4,
-        "driverPos": "nog ongeslagen en koploper, al was de 0-0 tegen Ghana moeizaam met een onmachtige Kane"
+        "pos": 6,
+        "driverPos": "2-0 tegen Panama en groepswinnaar, Kane werd met zijn elfde WK-goal all-time topscorer van Engeland"
       },
       "Zwitserland": {
         "pos": 6,
         "driverPos": "2-1 tegen Canada en groepswinnaar B met de maximale zeven punten"
       },
       "DR Congo": {
-        "pos": 3,
-        "driverPos": "nipt 0-1 onderuit tegen Colombia na een sterke keeper, alles om voor te spelen tegen Oezbekistan"
+        "pos": 6,
+        "driverPos": "3-1 comeback tegen Oezbekistan en door naar de knockout als beste nummer drie, Wissa twee keer trefzeker"
       },
       "Colombia": {
         "pos": 6,
         "driverPos": "1-0 tegen DR Congo en als groepswinnaar geplaatst voor de knockout"
       },
       "Portugal": {
-        "pos": 6,
-        "driverPos": "herstel met 5-0 tegen Oezbekistan, Ronaldo scoort in zijn zesde verschillende WK en is weer in vorm"
+        "pos": 5,
+        "driverPos": "0-0 tegen Colombia en als tweede door, met de knockout in zicht onder druk om te presteren"
       },
       "Qatar": {
         "neg": 5,
         "driverNeg": "uitgeschakeld met slechts een punt, slotnederlaag 1-3 tegen Bosnië"
       },
       "Kroatië": {
-        "pos": 4,
-        "driverPos": "herstel met 1-0 tegen Panama, weer volop kans op de knockout"
+        "pos": 5,
+        "driverPos": "2-1 tegen Ghana en als tweede van de groep door naar de knockout"
       },
       "Bosnië-Herz.": {
         "pos": 4,
@@ -189,8 +189,8 @@
         "driverNeg": "uitgeschakeld na een 0-5 afgang tegen Portugal"
       },
       "Panama": {
-        "neg": 4,
-        "driverNeg": "tweede nederlaag op rij, 0-1 tegen Kroatië en vrijwel uitgeschakeld"
+        "neg": 5,
+        "driverNeg": "uitgeschakeld na 0-2 tegen Engeland, als enige ploeg van het toernooi zonder enig doelpunt"
       },
       "Tsjechië": {
         "neg": 3,
@@ -2331,6 +2331,14 @@
       ],
       "Engeland": [
         {
+          "result": "W",
+          "opp": 1540,
+          "comp": "O",
+          "oppName": "Panama",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
+        {
           "result": "D",
           "opp": 1346,
           "comp": "O",
@@ -2400,14 +2408,6 @@
           "comp": "O",
           "oppName": "Servië",
           "date": "2025-10-14",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1100,
-          "comp": "O",
-          "oppName": "Letland",
-          "date": "2025-10-11",
           "src": "uefa"
         }
       ],
@@ -2495,6 +2495,14 @@
       ],
       "Portugal": [
         {
+          "result": "D",
+          "opp": 1693,
+          "comp": "O",
+          "oppName": "Colombia",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
+        {
           "result": "W",
           "opp": 1465,
           "comp": "O",
@@ -2565,17 +2573,17 @@
           "oppName": "Armenië",
           "date": "2025-10-11",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1500,
-          "comp": "O",
-          "oppName": "Hongarije",
-          "date": "2025-09-09",
-          "src": "uefa"
         }
       ],
       "Kroatië": [
+        {
+          "result": "W",
+          "opp": 1346,
+          "comp": "O",
+          "oppName": "Ghana",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1540,
@@ -2647,17 +2655,17 @@
           "oppName": "Faeröer",
           "date": "2025-10-12",
           "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1500,
-          "comp": "O",
-          "oppName": "Tsjechië",
-          "date": "2025-10-09",
-          "src": "uefa"
         }
       ],
       "Oostenrijk": [
+        {
+          "result": "D",
+          "opp": 1564,
+          "comp": "O",
+          "oppName": "Algerije",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1875,
@@ -2729,14 +2737,6 @@
           "oppName": "Roemenië",
           "date": "2025-10-09",
           "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1385,
-          "comp": "O",
-          "oppName": "Bosnië-Herz.",
-          "date": "2025-09-09",
-          "src": "sportskeeda"
         }
       ],
       "Noorwegen": [
@@ -2987,6 +2987,14 @@
       ],
       "Algerije": [
         {
+          "result": "D",
+          "opp": 1593,
+          "comp": "O",
+          "oppName": "Oostenrijk",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1391,
           "comp": "O",
@@ -3057,17 +3065,17 @@
           "oppName": "Equatoriaal-Guinea",
           "date": "2025-10-14",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1478,
-          "comp": "O",
-          "oppName": "DR Congo",
-          "date": "2025-10-09",
-          "src": "nbc"
         }
       ],
       "Ghana": [
+        {
+          "result": "L",
+          "opp": 1717,
+          "comp": "O",
+          "oppName": "Kroatië",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
         {
           "result": "D",
           "opp": 1826,
@@ -3138,14 +3146,6 @@
           "comp": "O",
           "oppName": "Comoren",
           "date": "2025-10-14",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1000,
-          "comp": "O",
-          "oppName": "CAR",
-          "date": "2025-10-09",
           "src": "nbc"
         }
       ],
@@ -3398,6 +3398,14 @@
       "Jordanië": [
         {
           "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
+        {
+          "result": "L",
           "opp": 1564,
           "comp": "O",
           "oppName": "Algerije",
@@ -3467,17 +3475,17 @@
           "oppName": "Palestina",
           "date": "2025-06-10",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1313,
-          "comp": "O",
-          "oppName": "Oman",
-          "date": "2025-06-05",
-          "src": "nbc"
         }
       ],
       "Oezbekistan": [
+        {
+          "result": "L",
+          "opp": 1478,
+          "comp": "O",
+          "oppName": "DR Congo",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1764,
@@ -3548,14 +3556,6 @@
           "comp": "O",
           "oppName": "VAE",
           "date": "2025-06-10",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1615,
-          "comp": "O",
-          "oppName": "Iran",
-          "date": "2025-06-05",
           "src": "nbc"
         }
       ],
@@ -3644,6 +3644,14 @@
       "Argentinië": [
         {
           "result": "W",
+          "opp": 1391,
+          "comp": "O",
+          "oppName": "Jordanië",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1593,
           "comp": "O",
           "oppName": "Oostenrijk",
@@ -3713,17 +3721,17 @@
           "oppName": "Colombia",
           "date": "2025-06-10",
           "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1530,
-          "comp": "O",
-          "oppName": "Chili",
-          "date": "2025-06-05",
-          "src": "goal"
         }
       ],
       "Colombia": [
+        {
+          "result": "D",
+          "opp": 1764,
+          "comp": "O",
+          "oppName": "Portugal",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
         {
           "result": "W",
           "opp": 1478,
@@ -3795,17 +3803,17 @@
           "oppName": "Argentinië",
           "date": "2025-06-10",
           "src": "goal"
-        },
-        {
-          "result": "D",
-          "opp": 1456,
-          "comp": "O",
-          "oppName": "Peru",
-          "date": "2025-06-06",
-          "src": "goal"
         }
       ],
       "DR Congo": [
+        {
+          "result": "W",
+          "opp": 1465,
+          "comp": "O",
+          "oppName": "Oezbekistan",
+          "date": "2026-06-27",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1693,
@@ -3877,17 +3885,17 @@
           "oppName": "Botswana",
           "date": "2025-10-14",
           "src": "nbc"
-        },
-        {
-          "result": "L",
-          "opp": 1564,
-          "comp": "O",
-          "oppName": "Algerije",
-          "date": "2025-10-09",
-          "src": "nbc"
         }
       ],
       "Panama": [
+        {
+          "result": "L",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-06-27",
+          "src": "nbc"
+        },
         {
           "result": "L",
           "opp": 1717,
@@ -3958,14 +3966,6 @@
           "comp": "O",
           "oppName": "El Salvador",
           "date": "2025-11-18",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1243,
-          "comp": "O",
-          "oppName": "Guatemala",
-          "date": "2025-11-13",
           "src": "nbc"
         }
       ],
@@ -4772,6 +4772,60 @@
         "hg": 5,
         "ag": 0,
         "date": "2026-06-26",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Jordanië",
+        "away": "Argentinië",
+        "hg": 1,
+        "ag": 3,
+        "date": "2026-06-27",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Algerije",
+        "away": "Oostenrijk",
+        "hg": 3,
+        "ag": 3,
+        "date": "2026-06-27",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Colombia",
+        "away": "Portugal",
+        "hg": 0,
+        "ag": 0,
+        "date": "2026-06-27",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "DR Congo",
+        "away": "Oezbekistan",
+        "hg": 3,
+        "ag": 1,
+        "date": "2026-06-27",
+        "src": "espn"
+      },
+      {
+        "fase": "groep",
+        "home": "Panama",
+        "away": "Engeland",
+        "hg": 0,
+        "ag": 2,
+        "date": "2026-06-27",
+        "src": "nbc"
+      },
+      {
+        "fase": "groep",
+        "home": "Kroatië",
+        "away": "Ghana",
+        "hg": 2,
+        "ag": 1,
+        "date": "2026-06-27",
         "src": "nbc"
       }
     ]
