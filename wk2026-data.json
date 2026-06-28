@@ -1,6 +1,6 @@
 {
-  "version": 21,
-  "updatedAt": "2026-06-28T07:37:27.761Z",
+  "version": 22,
+  "updatedAt": "2026-06-28T22:30:11.670Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -9,8 +9,8 @@
         "driverPos": "3-1 tegen Tunesië en groepswinnaar, Van Hecke kopte de beslissende treffer binnen"
       },
       "Canada": {
-        "pos": 5,
-        "driverPos": "ondanks de 1-2 tegen Zwitserland als tweede door naar de knockout"
+        "pos": 6,
+        "driverPos": "in de blessuretijd 1-0 tegen Zuid-Afrika en voor het eerst door naar de achtste finales"
       },
       "Mexico": {
         "pos": 8,
@@ -43,10 +43,6 @@
       "Iran": {
         "neg": 3,
         "driverNeg": "1-1 tegen Egypte met een door VAR afgekeurde winner, plaatsing nu onzeker als nummer drie"
-      },
-      "Zuid-Afrika": {
-        "pos": 4,
-        "driverPos": "1-0 tegen Zuid-Korea, nog kans op de knockout als beste nummer drie"
       },
       "Zuid-Korea": {
         "neg": 4,
@@ -282,6 +278,14 @@
       ],
       "Zuid-Afrika": [
         {
+          "result": "L",
+          "opp": 1556,
+          "comp": "O",
+          "oppName": "Canada",
+          "date": "2026-06-28",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1588,
           "comp": "O",
@@ -350,14 +354,6 @@
           "comp": "O",
           "oppName": "Zimbabwe",
           "date": "2025-12-29",
-          "src": "nbc"
-        },
-        {
-          "result": "L",
-          "opp": 1563,
-          "comp": "O",
-          "oppName": "Egypte",
-          "date": "2025-12-26",
           "src": "nbc"
         }
       ],
@@ -527,6 +523,14 @@
       ],
       "Canada": [
         {
+          "result": "W",
+          "opp": 1429,
+          "comp": "O",
+          "oppName": "Zuid-Afrika",
+          "date": "2026-06-28",
+          "src": "espn"
+        },
+        {
           "result": "L",
           "opp": 1649,
           "comp": "O",
@@ -596,14 +600,6 @@
           "comp": "F",
           "oppName": "Venezuela",
           "date": "2025-11-19",
-          "src": "fotmob"
-        },
-        {
-          "result": "D",
-          "opp": 1594,
-          "comp": "F",
-          "oppName": "Ecuador",
-          "date": "2025-11-14",
           "src": "fotmob"
         }
       ],
@@ -4175,7 +4171,6 @@
         "Leonardo Balerdi"
       ],
       "Canada": [
-        "Moïse Bombito",
         "Ismaël Koné"
       ]
     },
@@ -4827,6 +4822,15 @@
         "ag": 1,
         "date": "2026-06-27",
         "src": "nbc"
+      },
+      {
+        "fase": "R32",
+        "home": "Zuid-Afrika",
+        "away": "Canada",
+        "hg": 0,
+        "ag": 1,
+        "date": "2026-06-28",
+        "src": "espn"
       }
     ]
   }
