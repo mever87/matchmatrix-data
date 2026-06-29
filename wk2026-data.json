@@ -1,6 +1,6 @@
 {
-  "version": 22,
-  "updatedAt": "2026-06-28T22:30:11.670Z",
+  "version": 23,
+  "updatedAt": "2026-06-29T19:30:14.703Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -71,10 +71,6 @@
       "Zweden": {
         "pos": 4,
         "driverPos": "1-1 tegen Japan en door als een van de beste nummers drie"
-      },
-      "Japan": {
-        "pos": 6,
-        "driverPos": "1-1 tegen Zweden en als tweede van de groep verder, sterke indruk tot nu toe"
       },
       "Curaçao": {
         "pos": 3,
@@ -165,8 +161,8 @@
         "driverPos": "4-2 tegen Haïti en met zeven punten als groepswinnaar door, een van de revelaties tot nu toe"
       },
       "Brazilië": {
-        "pos": 6,
-        "driverPos": "3-0 tegen Schotland en groepswinnaar, Vinícius opende vroeg en de ploeg draait op stoom"
+        "pos": 7,
+        "driverPos": "in de blessuretijd 2-1 tegen Japan en door naar de achtste finales"
       },
       "Turkije": {
         "neg": 3,
@@ -1016,6 +1012,14 @@
       "Brazilië": [
         {
           "result": "W",
+          "opp": 1660,
+          "comp": "O",
+          "oppName": "Japan",
+          "date": "2026-06-29",
+          "src": "cbs"
+        },
+        {
+          "result": "W",
           "opp": 1498,
           "comp": "O",
           "oppName": "Schotland",
@@ -1084,14 +1088,6 @@
           "comp": "F",
           "oppName": "Japan",
           "date": "2025-11-18",
-          "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1689,
-          "comp": "F",
-          "oppName": "Senegal",
-          "date": "2025-11-15",
           "src": "fotmob"
         }
       ],
@@ -1753,6 +1749,14 @@
       ],
       "Japan": [
         {
+          "result": "L",
+          "opp": 1761,
+          "comp": "O",
+          "oppName": "Brazilië",
+          "date": "2026-06-29",
+          "src": "cbs"
+        },
+        {
           "result": "D",
           "opp": 1514,
           "comp": "O",
@@ -1822,14 +1826,6 @@
           "comp": "O",
           "oppName": "Bahrein",
           "date": "2025-10-10",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1421,
-          "comp": "O",
-          "oppName": "Saoedi-Arabië",
-          "date": "2025-09-09",
           "src": "nbc"
         }
       ],
@@ -4831,6 +4827,15 @@
         "ag": 1,
         "date": "2026-06-28",
         "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Brazilië",
+        "away": "Japan",
+        "hg": 2,
+        "ag": 1,
+        "date": "2026-06-29",
+        "src": "cbs"
       }
     ]
   }
