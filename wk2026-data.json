@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "updatedAt": "2026-06-29T19:30:14.703Z",
+  "version": 24,
+  "updatedAt": "2026-06-30T02:30:10.542Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -19,10 +19,6 @@
       "België": {
         "pos": 6,
         "driverPos": "van crisis naar groepswinnaar, 5-1 tegen Nieuw-Zeeland met Lukaku weer trefzeker"
-      },
-      "Duitsland": {
-        "pos": 5,
-        "driverPos": "groepswinnaar ondanks een zwak 1-2 slot tegen een gretig Ecuador"
       },
       "Tunesië": {
         "neg": 6,
@@ -53,8 +49,8 @@
         "driverPos": "als groepswinnaar door, al ging het slotduel met 2-3 tegen Turkije in blessuretijd verloren"
       },
       "Paraguay": {
-        "pos": 4,
-        "driverPos": "herstel met een 1-0 zege op Turkije na een doelpunt in de openingsminuut"
+        "pos": 8,
+        "driverPos": "stunt tegen Duitsland en via strafschoppen door naar de achtste finales"
       },
       "Ghana": {
         "pos": 5,
@@ -766,6 +762,14 @@
       "Paraguay": [
         {
           "result": "D",
+          "opp": 1730,
+          "comp": "O",
+          "oppName": "Duitsland",
+          "date": "2026-06-29",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1580,
           "comp": "O",
           "oppName": "Australië",
@@ -834,14 +838,6 @@
           "comp": "F",
           "oppName": "Zuid-Korea",
           "date": "2025-10-14",
-          "src": "besoccer"
-        },
-        {
-          "result": "D",
-          "opp": 1660,
-          "comp": "F",
-          "oppName": "Japan",
-          "date": "2025-10-10",
           "src": "besoccer"
         }
       ],
@@ -1503,6 +1499,14 @@
       ],
       "Duitsland": [
         {
+          "result": "D",
+          "opp": 1503,
+          "comp": "O",
+          "oppName": "Paraguay",
+          "date": "2026-06-29",
+          "src": "espn"
+        },
+        {
           "result": "L",
           "opp": 1594,
           "comp": "O",
@@ -1572,14 +1576,6 @@
           "comp": "O",
           "oppName": "Luxemburg",
           "date": "2025-10-13",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1290,
-          "comp": "O",
-          "oppName": "Noord-Ierland",
-          "date": "2025-10-10",
           "src": "uefa"
         }
       ],
@@ -4836,6 +4832,17 @@
         "ag": 1,
         "date": "2026-06-29",
         "src": "cbs"
+      },
+      {
+        "fase": "R32",
+        "home": "Duitsland",
+        "away": "Paraguay",
+        "hg": 1,
+        "ag": 1,
+        "ext": true,
+        "pens": "3-4",
+        "date": "2026-06-29",
+        "src": "espn"
       }
     ]
   }
