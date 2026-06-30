@@ -1,13 +1,9 @@
 {
-  "version": 24,
-  "updatedAt": "2026-06-30T02:30:10.542Z",
+  "version": 25,
+  "updatedAt": "2026-06-30T05:30:09.374Z",
   "schema": 1,
   "data": {
     "buzz": {
-      "Nederland": {
-        "pos": 7,
-        "driverPos": "3-1 tegen Tunesië en groepswinnaar, Van Hecke kopte de beslissende treffer binnen"
-      },
       "Canada": {
         "pos": 6,
         "driverPos": "in de blessuretijd 1-0 tegen Zuid-Afrika en voor het eerst door naar de achtste finales"
@@ -153,8 +149,8 @@
         "driverPos": "3-1 tegen Qatar, sterke kans op een knockoutplek als beste nummer drie"
       },
       "Marokko": {
-        "pos": 7,
-        "driverPos": "4-2 tegen Haïti en met zeven punten als groepswinnaar door, een van de revelaties tot nu toe"
+        "pos": 8,
+        "driverPos": "1-1 en na strafschoppen langs Nederland naar de achtste finales"
       },
       "Brazilië": {
         "pos": 7,
@@ -1089,6 +1085,14 @@
       ],
       "Marokko": [
         {
+          "result": "D",
+          "opp": 1758,
+          "comp": "O",
+          "oppName": "Nederland",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1291,
           "comp": "O",
@@ -1158,14 +1162,6 @@
           "comp": "O",
           "oppName": "Kameroen",
           "date": "2026-01-09",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1130,
-          "comp": "O",
-          "oppName": "Zambia",
-          "date": "2025-12-29",
           "src": "nbc"
         }
       ],
@@ -1663,6 +1659,14 @@
       ],
       "Nederland": [
         {
+          "result": "D",
+          "opp": 1756,
+          "comp": "O",
+          "oppName": "Marokko",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1483,
           "comp": "O",
@@ -1732,14 +1736,6 @@
           "comp": "O",
           "oppName": "Polen",
           "date": "2025-10-14",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 960,
-          "comp": "O",
-          "oppName": "Malta",
-          "date": "2025-10-11",
           "src": "uefa"
         }
       ],
@@ -4842,6 +4838,17 @@
         "ext": true,
         "pens": "3-4",
         "date": "2026-06-29",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Nederland",
+        "away": "Marokko",
+        "hg": 1,
+        "ag": 1,
+        "ext": true,
+        "pens": "2-3",
+        "date": "2026-06-30",
         "src": "espn"
       }
     ]
