@@ -1,6 +1,6 @@
 {
-  "version": 25,
-  "updatedAt": "2026-06-30T05:30:09.374Z",
+  "version": 26,
+  "updatedAt": "2026-06-30T19:30:04.499Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -23,10 +23,6 @@
       "Haïti": {
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
-      },
-      "Ivoorkust": {
-        "pos": 5,
-        "driverPos": "2-0 tegen Curaçao en als tweede door, Pepe twee keer trefzeker"
       },
       "Argentinië": {
         "pos": 9,
@@ -93,8 +89,8 @@
         "driverNeg": "uitgeschakeld in de groepsfase na een 0-1 tegen Spanje, tegenvaller voor de tweevoudig wereldkampioen"
       },
       "Noorwegen": {
-        "pos": 5,
-        "driverPos": "als tweede door ondanks een 1-4 tegen Frankrijk met een gespaarde Haaland"
+        "pos": 7,
+        "driverPos": "2-1 tegen Ivoorkust door een late Haaland en voor het eerst naar de achtste finales"
       },
       "Frankrijk": {
         "pos": 8,
@@ -1823,6 +1819,14 @@
       ],
       "Ivoorkust": [
         {
+          "result": "L",
+          "opp": 1550,
+          "comp": "O",
+          "oppName": "Noorwegen",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1294,
           "comp": "O",
@@ -1892,14 +1896,6 @@
           "comp": "O",
           "oppName": "Kameroen",
           "date": "2025-12-28",
-          "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 1100,
-          "comp": "O",
-          "oppName": "Mozambique",
-          "date": "2025-12-24",
           "src": "espn"
         }
       ],
@@ -2725,6 +2721,14 @@
       ],
       "Noorwegen": [
         {
+          "result": "W",
+          "opp": 1532,
+          "comp": "O",
+          "oppName": "Ivoorkust",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
           "result": "L",
           "opp": 1877,
           "comp": "O",
@@ -2794,14 +2798,6 @@
           "comp": "O",
           "oppName": "Israël",
           "date": "2025-10-11",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1080,
-          "comp": "O",
-          "oppName": "Estland",
-          "date": "2025-09-09",
           "src": "uefa"
         }
       ],
@@ -4848,6 +4844,15 @@
         "ag": 1,
         "ext": true,
         "pens": "2-3",
+        "date": "2026-06-30",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Ivoorkust",
+        "away": "Noorwegen",
+        "hg": 1,
+        "ag": 2,
         "date": "2026-06-30",
         "src": "espn"
       }
