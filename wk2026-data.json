@@ -1,6 +1,6 @@
 {
-  "version": 28,
-  "updatedAt": "2026-07-01T05:30:10.455Z",
+  "version": 29,
+  "updatedAt": "2026-07-01T19:30:12.929Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -109,16 +109,12 @@
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
-        "pos": 6,
-        "driverPos": "2-0 tegen Panama en groepswinnaar, Kane werd met zijn elfde WK-goal all-time topscorer van Engeland"
+        "pos": 7,
+        "driverPos": "Kane met twee late goals naar 2-1 tegen DR Congo en door naar de achtste finales tegen Mexico"
       },
       "Zwitserland": {
         "pos": 6,
         "driverPos": "2-1 tegen Canada en groepswinnaar B met de maximale zeven punten"
-      },
-      "DR Congo": {
-        "pos": 6,
-        "driverPos": "3-1 comeback tegen Oezbekistan en door naar de knockout als beste nummer drie, Wissa twee keer trefzeker"
       },
       "Colombia": {
         "pos": 6,
@@ -2304,6 +2300,14 @@
       "Engeland": [
         {
           "result": "W",
+          "opp": 1478,
+          "comp": "O",
+          "oppName": "DR Congo",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1540,
           "comp": "O",
           "oppName": "Panama",
@@ -2372,14 +2376,6 @@
           "comp": "O",
           "oppName": "Andorra",
           "date": "2025-11-13",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1505,
-          "comp": "O",
-          "oppName": "Servië",
-          "date": "2025-10-14",
           "src": "uefa"
         }
       ],
@@ -3779,6 +3775,14 @@
       ],
       "DR Congo": [
         {
+          "result": "L",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1465,
           "comp": "O",
@@ -3849,14 +3853,6 @@
           "oppName": "Kameroen",
           "date": "2025-11-13",
           "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 900,
-          "comp": "O",
-          "oppName": "Botswana",
-          "date": "2025-10-14",
-          "src": "nbc"
         }
       ],
       "Panama": [
@@ -4863,6 +4859,15 @@
         "away": "Ecuador",
         "hg": 2,
         "ag": 0,
+        "date": "2026-07-01",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Engeland",
+        "away": "DR Congo",
+        "hg": 2,
+        "ag": 1,
         "date": "2026-07-01",
         "src": "espn"
       }
