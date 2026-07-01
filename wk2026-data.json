@@ -1,6 +1,6 @@
 {
-  "version": 26,
-  "updatedAt": "2026-06-30T19:30:04.499Z",
+  "version": 27,
+  "updatedAt": "2026-07-01T02:30:14.826Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -56,10 +56,6 @@
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-3 tegen Brazilië"
       },
-      "Zweden": {
-        "pos": 4,
-        "driverPos": "1-1 tegen Japan en door als een van de beste nummers drie"
-      },
       "Curaçao": {
         "pos": 3,
         "driverPos": "uitgeschakeld na 0-2 tegen Ivoorkust, maar een historisch WK-debuut met een punt"
@@ -94,7 +90,7 @@
       },
       "Frankrijk": {
         "pos": 8,
-        "driverPos": "4-1 tegen Noorwegen en groepswinnaar, een hattrick van Dembélé onderstreept de diepte"
+        "driverPos": "3-0 tegen Zweden met opnieuw twee goals van Mbappé en door naar de achtste finales"
       },
       "Oostenrijk": {
         "pos": 5,
@@ -2065,6 +2061,14 @@
       ],
       "Zweden": [
         {
+          "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1660,
           "comp": "O",
@@ -2135,14 +2139,6 @@
           "oppName": "Slovenië",
           "date": "2025-11-15",
           "src": "uefa"
-        },
-        {
-          "result": "L",
-          "opp": 1649,
-          "comp": "O",
-          "oppName": "Zwitserland",
-          "date": "2025-10-13",
-          "src": "nbc"
         }
       ],
       "Spanje": [
@@ -2230,6 +2226,14 @@
       "Frankrijk": [
         {
           "result": "W",
+          "opp": 1514,
+          "comp": "O",
+          "oppName": "Zweden",
+          "date": "2026-06-30",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1550,
           "comp": "O",
           "oppName": "Noorwegen",
@@ -2298,14 +2302,6 @@
           "comp": "O",
           "oppName": "Oekraïne",
           "date": "2025-11-13",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "D",
-          "opp": 1281,
-          "comp": "O",
-          "oppName": "IJsland",
-          "date": "2025-10-13",
           "src": "fourfourtwo"
         }
       ],
@@ -4853,6 +4849,15 @@
         "away": "Noorwegen",
         "hg": 1,
         "ag": 2,
+        "date": "2026-06-30",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Frankrijk",
+        "away": "Zweden",
+        "hg": 3,
+        "ag": 0,
         "date": "2026-06-30",
         "src": "espn"
       }
