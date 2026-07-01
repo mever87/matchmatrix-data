@@ -1,6 +1,6 @@
 {
-  "version": 27,
-  "updatedAt": "2026-07-01T02:30:14.826Z",
+  "version": 28,
+  "updatedAt": "2026-07-01T05:30:10.455Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -10,7 +10,7 @@
       },
       "Mexico": {
         "pos": 8,
-        "driverPos": "perfecte groepsfase met 3-0 tegen Tsjechië, negen punten uit drie duels en ongeslagen naar de knockout"
+        "driverPos": "2-0 tegen Ecuador en overtuigend door naar de achtste finales"
       },
       "België": {
         "pos": 6,
@@ -152,10 +152,6 @@
         "neg": 3,
         "driverNeg": "uitgeschakeld, maar nam met een 3-2 op gastland VS afscheid met een zege"
       },
-      "Ecuador": {
-        "pos": 6,
-        "driverPos": "stunt met 2-1 tegen Duitsland en knap door naar de knockout"
-      },
       "Irak": {
         "neg": 5,
         "driverNeg": "uitgeschakeld na een 0-5 tegen Senegal, vroege rode kaart brak de ploeg"
@@ -175,6 +171,14 @@
     },
     "form": {
       "Mexico": [
+        {
+          "result": "W",
+          "opp": 1594,
+          "comp": "O",
+          "oppName": "Ecuador",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1501,
@@ -246,14 +250,6 @@
           "oppName": "IJsland",
           "date": "2026-02-25",
           "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 1300,
-          "comp": "F",
-          "oppName": "Bolivia",
-          "date": "2026-01-25",
-          "src": "footboom"
         }
       ],
       "Zuid-Afrika": [
@@ -1897,6 +1893,14 @@
       ],
       "Ecuador": [
         {
+          "result": "L",
+          "opp": 1681,
+          "comp": "O",
+          "oppName": "Mexico",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1730,
           "comp": "O",
@@ -1967,14 +1971,6 @@
           "oppName": "Mexico",
           "date": "2025-10-15",
           "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1874,
-          "comp": "O",
-          "oppName": "Argentinië",
-          "date": "2025-09-09",
-          "src": "goal"
         }
       ],
       "Tunesië": [
@@ -4859,6 +4855,15 @@
         "hg": 3,
         "ag": 0,
         "date": "2026-06-30",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Mexico",
+        "away": "Ecuador",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-07-01",
         "src": "espn"
       }
     ]
