@@ -1,6 +1,6 @@
 {
-  "version": 29,
-  "updatedAt": "2026-07-01T19:30:12.929Z",
+  "version": 30,
+  "updatedAt": "2026-07-02T02:30:14.443Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -13,8 +13,8 @@
         "driverPos": "2-0 tegen Ecuador en overtuigend door naar de achtste finales"
       },
       "België": {
-        "pos": 6,
-        "driverPos": "van crisis naar groepswinnaar, 5-1 tegen Nieuw-Zeeland met Lukaku weer trefzeker"
+        "pos": 7,
+        "driverPos": "van 0-2 naar 3-2 tegen Senegal na verlenging, Tielemans beslist diep in extra tijd"
       },
       "Tunesië": {
         "neg": 6,
@@ -37,8 +37,8 @@
         "driverNeg": "uitgeschakeld na een 0-1 tegen Zuid-Afrika, de gok met Son pakte verkeerd uit"
       },
       "VS": {
-        "pos": 6,
-        "driverPos": "als groepswinnaar door, al ging het slotduel met 2-3 tegen Turkije in blessuretijd verloren"
+        "pos": 7,
+        "driverPos": "eerste WK-knockoutzege sinds 2002, 2-0 tegen Bosnië ondanks rood voor Balogun"
       },
       "Paraguay": {
         "pos": 8,
@@ -96,10 +96,6 @@
         "pos": 5,
         "driverPos": "3-3 tegen Algerije met een gelijkmaker in de absolute slotfase, ternauwernood door naar de knockout"
       },
-      "Senegal": {
-        "pos": 4,
-        "driverPos": "5-0 tegen tien man van Irak, knockout binnen handbereik als beste nummer drie"
-      },
       "Algerije": {
         "pos": 5,
         "driverPos": "3-3 tegen Oostenrijk en door als een van de beste nummers drie"
@@ -131,10 +127,6 @@
       "Kroatië": {
         "pos": 5,
         "driverPos": "2-1 tegen Ghana en als tweede van de groep door naar de knockout"
-      },
-      "Bosnië-Herz.": {
-        "pos": 4,
-        "driverPos": "3-1 tegen Qatar, sterke kans op een knockoutplek als beste nummer drie"
       },
       "Marokko": {
         "pos": 8,
@@ -577,6 +569,14 @@
       ],
       "Bosnië-Herz.": [
         {
+          "result": "L",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "VS",
+          "date": "2026-07-02",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1454,
           "comp": "O",
@@ -647,17 +647,17 @@
           "oppName": "Roemenië",
           "date": "2025-11-15",
           "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1593,
-          "comp": "O",
-          "oppName": "Oostenrijk",
-          "date": "2025-09-09",
-          "src": "sportskeeda"
         }
       ],
       "VS": [
+        {
+          "result": "W",
+          "opp": 1385,
+          "comp": "O",
+          "oppName": "Bosnië-Herz.",
+          "date": "2026-07-02",
+          "src": "espn"
+        },
         {
           "result": "L",
           "opp": 1599,
@@ -728,14 +728,6 @@
           "comp": "F",
           "oppName": "Paraguay",
           "date": "2025-11-15",
-          "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1549,
-          "comp": "F",
-          "oppName": "Australië",
-          "date": "2025-10-15",
           "src": "fotmob"
         }
       ],
@@ -2382,6 +2374,14 @@
       "België": [
         {
           "result": "W",
+          "opp": 1689,
+          "comp": "O",
+          "oppName": "Senegal",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1281,
           "comp": "O",
           "oppName": "Nieuw-Zeeland",
@@ -2450,14 +2450,6 @@
           "comp": "O",
           "oppName": "Wales",
           "date": "2025-10-13",
-          "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1370,
-          "comp": "O",
-          "oppName": "Noord-Macedonië",
-          "date": "2025-10-10",
           "src": "uefa"
         }
       ],
@@ -2791,6 +2783,14 @@
       ],
       "Senegal": [
         {
+          "result": "L",
+          "opp": 1735,
+          "comp": "O",
+          "oppName": "België",
+          "date": "2026-07-01",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1447,
           "comp": "O",
@@ -2861,14 +2861,6 @@
           "oppName": "Engeland",
           "date": "2025-11-15",
           "src": "ussoccer"
-        },
-        {
-          "result": "W",
-          "opp": 1259,
-          "comp": "O",
-          "oppName": "Benin",
-          "date": "2025-09-09",
-          "src": "nbc"
         }
       ],
       "Egypte": [
@@ -4144,6 +4136,9 @@
       ],
       "Canada": [
         "Ismaël Koné"
+      ],
+      "VS": [
+        "Folarin Balogun"
       ]
     },
     "results": [
@@ -4869,6 +4864,25 @@
         "hg": 2,
         "ag": 1,
         "date": "2026-07-01",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "België",
+        "away": "Senegal",
+        "hg": 3,
+        "ag": 2,
+        "ext": true,
+        "date": "2026-07-01",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "VS",
+        "away": "Bosnië-Herz.",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-07-02",
         "src": "espn"
       }
     ]
