@@ -1,6 +1,6 @@
 {
-  "version": 30,
-  "updatedAt": "2026-07-02T02:30:14.443Z",
+  "version": 31,
+  "updatedAt": "2026-07-02T22:30:12.299Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -61,8 +61,8 @@
         "driverPos": "uitgeschakeld na 0-2 tegen Ivoorkust, maar een historisch WK-debuut met een punt"
       },
       "Spanje": {
-        "pos": 6,
-        "driverPos": "1-0 tegen Uruguay en groepswinnaar, Yamal en co groeien in het toernooi"
+        "pos": 7,
+        "driverPos": "3-0 tegen Oostenrijk met twee goals van Oyarzabal, overtuigend naar de achtste finales"
       },
       "Kaapverdië": {
         "pos": 8,
@@ -91,10 +91,6 @@
       "Frankrijk": {
         "pos": 8,
         "driverPos": "3-0 tegen Zweden met opnieuw twee goals van Mbappé en door naar de achtste finales"
-      },
-      "Oostenrijk": {
-        "pos": 5,
-        "driverPos": "3-3 tegen Algerije met een gelijkmaker in de absolute slotfase, ternauwernood door naar de knockout"
       },
       "Algerije": {
         "pos": 5,
@@ -2128,6 +2124,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1593,
+          "comp": "O",
+          "oppName": "Oostenrijk",
+          "date": "2026-07-02",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1673,
           "comp": "O",
           "oppName": "Uruguay",
@@ -2196,14 +2200,6 @@
           "comp": "O",
           "oppName": "Georgië",
           "date": "2025-11-15",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1240,
-          "comp": "O",
-          "oppName": "Bulgarije",
-          "date": "2025-10-14",
           "src": "fourfourtwo"
         }
       ],
@@ -2619,6 +2615,14 @@
       ],
       "Oostenrijk": [
         {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-07-02",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1564,
           "comp": "O",
@@ -2688,14 +2692,6 @@
           "comp": "O",
           "oppName": "San Marino",
           "date": "2025-10-12",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "O",
-          "oppName": "Roemenië",
-          "date": "2025-10-09",
           "src": "uefa"
         }
       ],
@@ -4881,6 +4877,15 @@
         "home": "VS",
         "away": "Bosnië-Herz.",
         "hg": 2,
+        "ag": 0,
+        "date": "2026-07-02",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Spanje",
+        "away": "Oostenrijk",
+        "hg": 3,
         "ag": 0,
         "date": "2026-07-02",
         "src": "espn"
