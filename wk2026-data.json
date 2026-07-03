@@ -1,6 +1,6 @@
 {
-  "version": 32,
-  "updatedAt": "2026-07-03T02:30:13.865Z",
+  "version": 33,
+  "updatedAt": "2026-07-03T05:30:13.420Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -92,10 +92,6 @@
         "pos": 8,
         "driverPos": "3-0 tegen Zweden met opnieuw twee goals van Mbappé en door naar de achtste finales"
       },
-      "Algerije": {
-        "pos": 5,
-        "driverPos": "3-3 tegen Oostenrijk en door als een van de beste nummers drie"
-      },
       "Jordanië": {
         "neg": 4,
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
@@ -105,8 +101,8 @@
         "driverPos": "Kane met twee late goals naar 2-1 tegen DR Congo en door naar de achtste finales tegen Mexico"
       },
       "Zwitserland": {
-        "pos": 6,
-        "driverPos": "2-1 tegen Canada en groepswinnaar B met de maximale zeven punten"
+        "pos": 7,
+        "driverPos": "2-0 tegen Algerije en door naar de achtste finales"
       },
       "Colombia": {
         "pos": 6,
@@ -890,6 +886,14 @@
       "Zwitserland": [
         {
           "result": "W",
+          "opp": 1564,
+          "comp": "O",
+          "oppName": "Algerije",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1556,
           "comp": "O",
           "oppName": "Canada",
@@ -959,14 +963,6 @@
           "oppName": "Slovenië",
           "date": "2025-10-10",
           "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1280,
-          "comp": "O",
-          "oppName": "Kosovo",
-          "date": "2025-09-09",
-          "src": "uefa"
         }
       ],
       "Brazilië": [
@@ -2939,6 +2935,14 @@
       ],
       "Algerije": [
         {
+          "result": "L",
+          "opp": 1649,
+          "comp": "O",
+          "oppName": "Zwitserland",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1593,
           "comp": "O",
@@ -3008,14 +3012,6 @@
           "comp": "O",
           "oppName": "Soedan",
           "date": "2025-12-22",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1195,
-          "comp": "O",
-          "oppName": "Equatoriaal-Guinea",
-          "date": "2025-10-14",
           "src": "nbc"
         }
       ],
@@ -4893,6 +4889,15 @@
         "hg": 2,
         "ag": 1,
         "date": "2026-07-02",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Zwitserland",
+        "away": "Algerije",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-07-03",
         "src": "espn"
       }
     ]
