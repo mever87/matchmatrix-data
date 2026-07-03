@@ -1,6 +1,6 @@
 {
-  "version": 33,
-  "updatedAt": "2026-07-03T05:30:13.420Z",
+  "version": 34,
+  "updatedAt": "2026-07-03T22:30:09.733Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -48,10 +48,6 @@
         "pos": 5,
         "driverPos": "knap 0-0 tegen Engeland, sterke uitgangspositie voor de laatste speelronde"
       },
-      "Australië": {
-        "pos": 5,
-        "driverPos": "via een 0-0 tegen Paraguay als tweede van de groep door naar de knockout"
-      },
       "Schotland": {
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-3 tegen Brazilië"
@@ -69,8 +65,8 @@
         "driverPos": "sprookje compleet, via een 0-0 tegen Saoedi-Arabië als WK-debutant door naar de knockout"
       },
       "Egypte": {
-        "pos": 5,
-        "driverPos": "1-1 tegen Iran en als tweede door, al is er zorg over een afgezwaaide Salah met de hamstring"
+        "pos": 7,
+        "driverPos": "eerste WK-knockoutzege ooit na strafschoppen tegen Australië en door naar de achtste finale"
       },
       "Saoedi-Arabië": {
         "neg": 4,
@@ -1132,6 +1128,14 @@
       "Australië": [
         {
           "result": "D",
+          "opp": 1563,
+          "comp": "O",
+          "oppName": "Egypte",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1503,
           "comp": "O",
           "oppName": "Paraguay",
@@ -1200,14 +1204,6 @@
           "comp": "O",
           "oppName": "China",
           "date": "2025-10-10",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1421,
-          "comp": "O",
-          "oppName": "Saoedi-Arabië",
-          "date": "2025-06-10",
           "src": "nbc"
         }
       ],
@@ -2854,6 +2850,14 @@
       "Egypte": [
         {
           "result": "D",
+          "opp": 1580,
+          "comp": "O",
+          "oppName": "Australië",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
+          "result": "D",
           "opp": 1615,
           "comp": "O",
           "oppName": "Iran",
@@ -2922,14 +2926,6 @@
           "comp": "O",
           "oppName": "Angola",
           "date": "2025-12-29",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1429,
-          "comp": "O",
-          "oppName": "Zuid-Afrika",
-          "date": "2025-12-26",
           "src": "nbc"
         }
       ],
@@ -4897,6 +4893,17 @@
         "away": "Algerije",
         "hg": 2,
         "ag": 0,
+        "date": "2026-07-03",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Australië",
+        "away": "Egypte",
+        "hg": 1,
+        "ag": 1,
+        "ext": true,
+        "pens": "2-4",
         "date": "2026-07-03",
         "src": "espn"
       }
