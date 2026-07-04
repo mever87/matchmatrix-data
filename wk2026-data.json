@@ -1,13 +1,9 @@
 {
-  "version": 36,
-  "updatedAt": "2026-07-04T05:30:12.906Z",
+  "version": 37,
+  "updatedAt": "2026-07-04T19:30:09.499Z",
   "schema": 1,
   "data": {
     "buzz": {
-      "Canada": {
-        "pos": 6,
-        "driverPos": "in de blessuretijd 1-0 tegen Zuid-Afrika en voor het eerst door naar de achtste finales"
-      },
       "Mexico": {
         "pos": 8,
         "driverPos": "2-0 tegen Ecuador en overtuigend door naar de achtste finales"
@@ -106,7 +102,7 @@
       },
       "Marokko": {
         "pos": 8,
-        "driverPos": "1-1 en na strafschoppen langs Nederland naar de achtste finales"
+        "driverPos": "3-0 tegen Canada en door naar de kwartfinale"
       },
       "Brazilië": {
         "pos": 7,
@@ -463,6 +459,14 @@
       ],
       "Canada": [
         {
+          "result": "L",
+          "opp": 1756,
+          "comp": "O",
+          "oppName": "Marokko",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1429,
           "comp": "O",
@@ -532,14 +536,6 @@
           "comp": "F",
           "oppName": "Guatemala",
           "date": "2026-01-18",
-          "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "F",
-          "oppName": "Venezuela",
-          "date": "2025-11-19",
           "src": "fotmob"
         }
       ],
@@ -1037,6 +1033,14 @@
       ],
       "Marokko": [
         {
+          "result": "W",
+          "opp": 1556,
+          "comp": "O",
+          "oppName": "Canada",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1758,
           "comp": "O",
@@ -1106,14 +1110,6 @@
           "comp": "O",
           "oppName": "Nigeria",
           "date": "2026-01-14",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1455,
-          "comp": "O",
-          "oppName": "Kameroen",
-          "date": "2026-01-09",
           "src": "nbc"
         }
       ],
@@ -4110,9 +4106,6 @@
       "Argentinië": [
         "Leonardo Balerdi"
       ],
-      "Canada": [
-        "Ismaël Koné"
-      ],
       "VS": [
         "Folarin Balogun"
       ]
@@ -4915,6 +4908,15 @@
         "away": "Ghana",
         "hg": 1,
         "ag": 0,
+        "date": "2026-07-04",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Canada",
+        "away": "Marokko",
+        "hg": 0,
+        "ag": 3,
         "date": "2026-07-04",
         "src": "espn"
       }
