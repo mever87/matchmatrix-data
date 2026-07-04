@@ -1,6 +1,6 @@
 {
-  "version": 34,
-  "updatedAt": "2026-07-03T22:30:09.733Z",
+  "version": 35,
+  "updatedAt": "2026-07-04T02:30:13.599Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -25,8 +25,8 @@
         "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
       },
       "Argentinië": {
-        "pos": 9,
-        "driverPos": "perfecte groepsfase met negen punten na 3-1 tegen Jordanië, Messi scoort in een record zevende WK-duel op rij"
+        "pos": 8,
+        "driverPos": "met moeite 3-2 na verlenging tegen Kaapverdië, Messi scoort in een record achtste WK-duel op rij"
       },
       "Iran": {
         "neg": 3,
@@ -59,10 +59,6 @@
       "Spanje": {
         "pos": 7,
         "driverPos": "3-0 tegen Oostenrijk met twee goals van Oyarzabal, overtuigend naar de achtste finales"
-      },
-      "Kaapverdië": {
-        "pos": 8,
-        "driverPos": "sprookje compleet, via een 0-0 tegen Saoedi-Arabië als WK-debutant door naar de knockout"
       },
       "Egypte": {
         "pos": 7,
@@ -3095,6 +3091,14 @@
       ],
       "Kaapverdië": [
         {
+          "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1421,
           "comp": "O",
@@ -3164,14 +3168,6 @@
           "comp": "O",
           "oppName": "Kameroen",
           "date": "2025-09-09",
-          "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 850,
-          "comp": "O",
-          "oppName": "Mauritius",
-          "date": "2025-09-04",
           "src": "espn"
         }
       ],
@@ -3588,6 +3584,14 @@
       "Argentinië": [
         {
           "result": "W",
+          "opp": 1366,
+          "comp": "O",
+          "oppName": "Kaapverdië",
+          "date": "2026-07-03",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1391,
           "comp": "O",
           "oppName": "Jordanië",
@@ -3656,14 +3660,6 @@
           "comp": "O",
           "oppName": "Venezuela",
           "date": "2025-09-04",
-          "src": "goal"
-        },
-        {
-          "result": "D",
-          "opp": 1693,
-          "comp": "O",
-          "oppName": "Colombia",
-          "date": "2025-06-10",
           "src": "goal"
         }
       ],
@@ -4904,6 +4900,16 @@
         "ag": 1,
         "ext": true,
         "pens": "2-4",
+        "date": "2026-07-03",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Argentinië",
+        "away": "Kaapverdië",
+        "hg": 3,
+        "ag": 2,
+        "ext": true,
         "date": "2026-07-03",
         "src": "espn"
       }
