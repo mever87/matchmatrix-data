@@ -1,6 +1,6 @@
 {
-  "version": 35,
-  "updatedAt": "2026-07-04T02:30:13.599Z",
+  "version": 36,
+  "updatedAt": "2026-07-04T05:30:12.906Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -43,10 +43,6 @@
       "Paraguay": {
         "pos": 8,
         "driverPos": "stunt tegen Duitsland en via strafschoppen door naar de achtste finales"
-      },
-      "Ghana": {
-        "pos": 5,
-        "driverPos": "knap 0-0 tegen Engeland, sterke uitgangspositie voor de laatste speelronde"
       },
       "Schotland": {
         "neg": 4,
@@ -97,8 +93,8 @@
         "driverPos": "2-0 tegen Algerije en door naar de achtste finales"
       },
       "Colombia": {
-        "pos": 6,
-        "driverPos": "1-0 tegen DR Congo en als groepswinnaar geplaatst voor de knockout"
+        "pos": 7,
+        "driverPos": "1-0 tegen Ghana en door naar de achtste finales"
       },
       "Portugal": {
         "pos": 7,
@@ -3010,6 +3006,14 @@
       "Ghana": [
         {
           "result": "L",
+          "opp": 1693,
+          "comp": "O",
+          "oppName": "Colombia",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
+          "result": "L",
           "opp": 1717,
           "comp": "O",
           "oppName": "Kroatië",
@@ -3079,14 +3083,6 @@
           "oppName": "Oostenrijk",
           "date": "2025-11-15",
           "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1188,
-          "comp": "O",
-          "oppName": "Comoren",
-          "date": "2025-10-14",
-          "src": "nbc"
         }
       ],
       "Kaapverdië": [
@@ -3665,6 +3661,14 @@
       ],
       "Colombia": [
         {
+          "result": "W",
+          "opp": 1346,
+          "comp": "O",
+          "oppName": "Ghana",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1764,
           "comp": "O",
@@ -3734,14 +3738,6 @@
           "comp": "O",
           "oppName": "Bolivia",
           "date": "2025-09-04",
-          "src": "goal"
-        },
-        {
-          "result": "D",
-          "opp": 1875,
-          "comp": "O",
-          "oppName": "Argentinië",
-          "date": "2025-06-10",
           "src": "goal"
         }
       ],
@@ -4911,6 +4907,15 @@
         "ag": 2,
         "ext": true,
         "date": "2026-07-03",
+        "src": "espn"
+      },
+      {
+        "fase": "R32",
+        "home": "Colombia",
+        "away": "Ghana",
+        "hg": 1,
+        "ag": 0,
+        "date": "2026-07-04",
         "src": "espn"
       }
     ]
