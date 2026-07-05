@@ -1,6 +1,6 @@
 {
-  "version": 37,
-  "updatedAt": "2026-07-04T19:30:09.499Z",
+  "version": 38,
+  "updatedAt": "2026-07-05T02:30:14.147Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -36,10 +36,6 @@
         "pos": 7,
         "driverPos": "eerste WK-knockoutzege sinds 2002, 2-0 tegen Bosnië ondanks rood voor Balogun"
       },
-      "Paraguay": {
-        "pos": 8,
-        "driverPos": "stunt tegen Duitsland en via strafschoppen door naar de achtste finales"
-      },
       "Schotland": {
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-3 tegen Brazilië"
@@ -73,8 +69,8 @@
         "driverPos": "2-1 tegen Ivoorkust door een late Haaland en voor het eerst naar de achtste finales"
       },
       "Frankrijk": {
-        "pos": 8,
-        "driverPos": "3-0 tegen Zweden met opnieuw twee goals van Mbappé en door naar de achtste finales"
+        "pos": 7,
+        "driverPos": "1-0 tegen Paraguay via een penalty van Mbappé en door naar de kwartfinale tegen Marokko"
       },
       "Jordanië": {
         "neg": 4,
@@ -705,6 +701,14 @@
       ],
       "Paraguay": [
         {
+          "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1730,
           "comp": "O",
@@ -774,14 +778,6 @@
           "comp": "F",
           "oppName": "VS",
           "date": "2025-11-15",
-          "src": "besoccer"
-        },
-        {
-          "result": "L",
-          "opp": 1588,
-          "comp": "F",
-          "oppName": "Zuid-Korea",
-          "date": "2025-10-14",
           "src": "besoccer"
         }
       ],
@@ -2182,6 +2178,14 @@
       "Frankrijk": [
         {
           "result": "W",
+          "opp": 1503,
+          "comp": "O",
+          "oppName": "Paraguay",
+          "date": "2026-07-04",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1514,
           "comp": "O",
           "oppName": "Zweden",
@@ -2250,14 +2254,6 @@
           "comp": "O",
           "oppName": "Azerbeidzjan",
           "date": "2025-11-16",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1560,
-          "comp": "O",
-          "oppName": "Oekraïne",
-          "date": "2025-11-13",
           "src": "fourfourtwo"
         }
       ],
@@ -4917,6 +4913,15 @@
         "away": "Marokko",
         "hg": 0,
         "ag": 3,
+        "date": "2026-07-04",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Paraguay",
+        "away": "Frankrijk",
+        "hg": 0,
+        "ag": 1,
         "date": "2026-07-04",
         "src": "espn"
       }
