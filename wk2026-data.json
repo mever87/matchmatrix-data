@@ -1,6 +1,6 @@
 {
-  "version": 38,
-  "updatedAt": "2026-07-05T02:30:14.147Z",
+  "version": 39,
+  "updatedAt": "2026-07-05T22:30:10.870Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -34,7 +34,7 @@
       },
       "VS": {
         "pos": 7,
-        "driverPos": "eerste WK-knockoutzege sinds 2002, 2-0 tegen Bosnië ondanks rood voor Balogun"
+        "driverPos": "FIFA schort de schorsing van Balogun op zodat hij tegen België kan spelen"
       },
       "Schotland": {
         "neg": 4,
@@ -65,8 +65,8 @@
         "driverNeg": "uitgeschakeld in de groepsfase na een 0-1 tegen Spanje, tegenvaller voor de tweevoudig wereldkampioen"
       },
       "Noorwegen": {
-        "pos": 7,
-        "driverPos": "2-1 tegen Ivoorkust door een late Haaland en voor het eerst naar de achtste finales"
+        "pos": 8,
+        "driverPos": "Haaland velt Brazilië met twee goals en Noorwegen staat voor het eerst in de kwartfinale"
       },
       "Frankrijk": {
         "pos": 7,
@@ -99,10 +99,6 @@
       "Marokko": {
         "pos": 8,
         "driverPos": "3-0 tegen Canada en door naar de kwartfinale"
-      },
-      "Brazilië": {
-        "pos": 7,
-        "driverPos": "in de blessuretijd 2-1 tegen Japan en door naar de achtste finales"
       },
       "Turkije": {
         "neg": 3,
@@ -947,6 +943,14 @@
       ],
       "Brazilië": [
         {
+          "result": "L",
+          "opp": 1550,
+          "comp": "O",
+          "oppName": "Noorwegen",
+          "date": "2026-07-05",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1660,
           "comp": "O",
@@ -1016,14 +1020,6 @@
           "comp": "F",
           "oppName": "Tunesië",
           "date": "2026-03-26",
-          "src": "fotmob"
-        },
-        {
-          "result": "L",
-          "opp": 1660,
-          "comp": "F",
-          "oppName": "Japan",
-          "date": "2025-11-18",
           "src": "fotmob"
         }
       ],
@@ -2670,6 +2666,14 @@
       "Noorwegen": [
         {
           "result": "W",
+          "opp": 1761,
+          "comp": "O",
+          "oppName": "Brazilië",
+          "date": "2026-07-05",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1532,
           "comp": "O",
           "oppName": "Ivoorkust",
@@ -2738,14 +2742,6 @@
           "comp": "O",
           "oppName": "Moldavië",
           "date": "2025-10-14",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1350,
-          "comp": "O",
-          "oppName": "Israël",
-          "date": "2025-10-11",
           "src": "uefa"
         }
       ],
@@ -4101,9 +4097,6 @@
     "unavailable": {
       "Argentinië": [
         "Leonardo Balerdi"
-      ],
-      "VS": [
-        "Folarin Balogun"
       ]
     },
     "results": [
@@ -4923,6 +4916,15 @@
         "hg": 0,
         "ag": 1,
         "date": "2026-07-04",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Brazilië",
+        "away": "Noorwegen",
+        "hg": 1,
+        "ag": 2,
+        "date": "2026-07-05",
         "src": "espn"
       }
     ]
