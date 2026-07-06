@@ -1,13 +1,9 @@
 {
-  "version": 39,
-  "updatedAt": "2026-07-05T22:30:10.870Z",
+  "version": 40,
+  "updatedAt": "2026-07-06T05:30:13.952Z",
   "schema": 1,
   "data": {
     "buzz": {
-      "Mexico": {
-        "pos": 8,
-        "driverPos": "2-0 tegen Ecuador en overtuigend door naar de achtste finales"
-      },
       "België": {
         "pos": 7,
         "driverPos": "van 0-2 naar 3-2 tegen Senegal na verlenging, Tielemans beslist diep in extra tijd"
@@ -78,7 +74,7 @@
       },
       "Engeland": {
         "pos": 7,
-        "driverPos": "Kane met twee late goals naar 2-1 tegen DR Congo en door naar de achtste finales tegen Mexico"
+        "driverPos": "3-2 tegen Mexico in het Azteca en ondanks rood voor Quansah door naar de kwartfinale"
       },
       "Zwitserland": {
         "pos": 7,
@@ -123,6 +119,14 @@
     },
     "form": {
       "Mexico": [
+        {
+          "result": "L",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1594,
@@ -193,14 +197,6 @@
           "comp": "F",
           "oppName": "Portugal",
           "date": "2026-03-28",
-          "src": "espn"
-        },
-        {
-          "result": "W",
-          "opp": 1281,
-          "comp": "F",
-          "oppName": "IJsland",
-          "date": "2026-02-25",
           "src": "espn"
         }
       ],
@@ -2256,6 +2252,14 @@
       "Engeland": [
         {
           "result": "W",
+          "opp": 1681,
+          "comp": "O",
+          "oppName": "Mexico",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1478,
           "comp": "O",
           "oppName": "DR Congo",
@@ -2325,14 +2329,6 @@
           "oppName": "Senegal",
           "date": "2025-11-15",
           "src": "ussoccer"
-        },
-        {
-          "result": "W",
-          "opp": 900,
-          "comp": "O",
-          "oppName": "Andorra",
-          "date": "2025-11-13",
-          "src": "uefa"
         }
       ],
       "België": [
@@ -4097,6 +4093,9 @@
     "unavailable": {
       "Argentinië": [
         "Leonardo Balerdi"
+      ],
+      "Engeland": [
+        "Jarell Quansah"
       ]
     },
     "results": [
@@ -4925,6 +4924,15 @@
         "hg": 1,
         "ag": 2,
         "date": "2026-07-05",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Mexico",
+        "away": "Engeland",
+        "hg": 2,
+        "ag": 3,
+        "date": "2026-07-06",
         "src": "espn"
       }
     ]
