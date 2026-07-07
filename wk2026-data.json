@@ -1,12 +1,12 @@
 {
-  "version": 40,
-  "updatedAt": "2026-07-06T05:30:13.952Z",
+  "version": 41,
+  "updatedAt": "2026-07-07T19:30:14.615Z",
   "schema": 1,
   "data": {
     "buzz": {
       "België": {
-        "pos": 7,
-        "driverPos": "van 0-2 naar 3-2 tegen Senegal na verlenging, Tielemans beslist diep in extra tijd"
+        "pos": 8,
+        "driverPos": "overtuigend 4-1 tegen gastland VS en door naar de kwartfinale tegen Spanje"
       },
       "Tunesië": {
         "neg": 6,
@@ -18,7 +18,7 @@
       },
       "Argentinië": {
         "pos": 8,
-        "driverPos": "met moeite 3-2 na verlenging tegen Kaapverdië, Messi scoort in een record achtste WK-duel op rij"
+        "driverPos": "van 0-2 terug naar 3-2 tegen Egypte met de winnende kopgoal van Enzo Fernandez in blessuretijd"
       },
       "Iran": {
         "neg": 3,
@@ -27,10 +27,6 @@
       "Zuid-Korea": {
         "neg": 4,
         "driverNeg": "uitgeschakeld na een 0-1 tegen Zuid-Afrika, de gok met Son pakte verkeerd uit"
-      },
-      "VS": {
-        "pos": 7,
-        "driverPos": "FIFA schort de schorsing van Balogun op zodat hij tegen België kan spelen"
       },
       "Schotland": {
         "neg": 4,
@@ -41,12 +37,8 @@
         "driverPos": "uitgeschakeld na 0-2 tegen Ivoorkust, maar een historisch WK-debuut met een punt"
       },
       "Spanje": {
-        "pos": 7,
-        "driverPos": "3-0 tegen Oostenrijk met twee goals van Oyarzabal, overtuigend naar de achtste finales"
-      },
-      "Egypte": {
-        "pos": 7,
-        "driverPos": "eerste WK-knockoutzege ooit na strafschoppen tegen Australië en door naar de achtste finale"
+        "pos": 8,
+        "driverPos": "1-0 tegen Portugal door een treffer van Merino in blessuretijd en door naar de kwartfinale"
       },
       "Saoedi-Arabië": {
         "neg": 4,
@@ -83,10 +75,6 @@
       "Colombia": {
         "pos": 7,
         "driverPos": "1-0 tegen Ghana en door naar de achtste finales"
-      },
-      "Portugal": {
-        "pos": 7,
-        "driverPos": "2-1 tegen Kroatië met een late kopgoal van Ramos, door naar de achtste finale"
       },
       "Qatar": {
         "neg": 5,
@@ -611,6 +599,14 @@
       ],
       "VS": [
         {
+          "result": "L",
+          "opp": 1735,
+          "comp": "O",
+          "oppName": "België",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1385,
           "comp": "O",
@@ -680,14 +676,6 @@
           "comp": "F",
           "oppName": "Uruguay",
           "date": "2025-11-19",
-          "src": "fotmob"
-        },
-        {
-          "result": "W",
-          "opp": 1503,
-          "comp": "F",
-          "oppName": "Paraguay",
-          "date": "2025-11-15",
           "src": "fotmob"
         }
       ],
@@ -2088,6 +2076,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1764,
+          "comp": "O",
+          "oppName": "Portugal",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1593,
           "comp": "O",
           "oppName": "Oostenrijk",
@@ -2156,14 +2152,6 @@
           "comp": "O",
           "oppName": "Turkije",
           "date": "2025-11-18",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1300,
-          "comp": "O",
-          "oppName": "Georgië",
-          "date": "2025-11-15",
           "src": "fourfourtwo"
         }
       ],
@@ -2334,6 +2322,14 @@
       "België": [
         {
           "result": "W",
+          "opp": 1673,
+          "comp": "O",
+          "oppName": "VS",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1689,
           "comp": "O",
           "oppName": "Senegal",
@@ -2403,17 +2399,17 @@
           "oppName": "Liechtenstein",
           "date": "2025-11-15",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1450,
-          "comp": "O",
-          "oppName": "Wales",
-          "date": "2025-10-13",
-          "src": "uefa"
         }
       ],
       "Portugal": [
+        {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-07-06",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1717,
@@ -2484,14 +2480,6 @@
           "comp": "O",
           "oppName": "Ierland",
           "date": "2025-11-13",
-          "src": "uefa"
-        },
-        {
-          "result": "D",
-          "opp": 1500,
-          "comp": "O",
-          "oppName": "Hongarije",
-          "date": "2025-10-14",
           "src": "uefa"
         }
       ],
@@ -2825,6 +2813,14 @@
       ],
       "Egypte": [
         {
+          "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-07-07",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1580,
           "comp": "O",
@@ -2894,14 +2890,6 @@
           "comp": "O",
           "oppName": "Ivoorkust",
           "date": "2026-01-10",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1263,
-          "comp": "O",
-          "oppName": "Angola",
-          "date": "2025-12-29",
           "src": "nbc"
         }
       ],
@@ -3564,6 +3552,14 @@
       "Argentinië": [
         {
           "result": "W",
+          "opp": 1563,
+          "comp": "O",
+          "oppName": "Egypte",
+          "date": "2026-07-07",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1366,
           "comp": "O",
           "oppName": "Kaapverdië",
@@ -3632,14 +3628,6 @@
           "comp": "O",
           "oppName": "Ecuador",
           "date": "2025-09-09",
-          "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "O",
-          "oppName": "Venezuela",
-          "date": "2025-09-04",
           "src": "goal"
         }
       ],
@@ -4933,6 +4921,33 @@
         "hg": 2,
         "ag": 3,
         "date": "2026-07-06",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Portugal",
+        "away": "Spanje",
+        "hg": 0,
+        "ag": 1,
+        "date": "2026-07-06",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "VS",
+        "away": "België",
+        "hg": 1,
+        "ag": 4,
+        "date": "2026-07-06",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Argentinië",
+        "away": "Egypte",
+        "hg": 3,
+        "ag": 2,
+        "date": "2026-07-07",
         "src": "espn"
       }
     ]
