@@ -1,6 +1,6 @@
 {
-  "version": 41,
-  "updatedAt": "2026-07-07T19:30:14.615Z",
+  "version": 42,
+  "updatedAt": "2026-07-08T02:30:14.000Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -69,12 +69,8 @@
         "driverPos": "3-2 tegen Mexico in het Azteca en ondanks rood voor Quansah door naar de kwartfinale"
       },
       "Zwitserland": {
-        "pos": 7,
-        "driverPos": "2-0 tegen Algerije en door naar de achtste finales"
-      },
-      "Colombia": {
-        "pos": 7,
-        "driverPos": "1-0 tegen Ghana en door naar de achtste finales"
+        "pos": 8,
+        "driverPos": "0-0 tegen Colombia en na strafschoppen door naar de kwartfinale"
       },
       "Qatar": {
         "neg": 5,
@@ -845,6 +841,14 @@
       ],
       "Zwitserland": [
         {
+          "result": "D",
+          "opp": 1693,
+          "comp": "O",
+          "oppName": "Colombia",
+          "date": "2026-07-07",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1564,
           "comp": "O",
@@ -914,14 +918,6 @@
           "comp": "O",
           "oppName": "Zweden",
           "date": "2025-10-13",
-          "src": "nbc"
-        },
-        {
-          "result": "D",
-          "opp": 1340,
-          "comp": "O",
-          "oppName": "Slovenië",
-          "date": "2025-10-10",
           "src": "nbc"
         }
       ],
@@ -3633,6 +3629,14 @@
       ],
       "Colombia": [
         {
+          "result": "D",
+          "opp": 1649,
+          "comp": "O",
+          "oppName": "Zwitserland",
+          "date": "2026-07-07",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1346,
           "comp": "O",
@@ -3702,14 +3706,6 @@
           "comp": "O",
           "oppName": "Venezuela",
           "date": "2025-09-09",
-          "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1300,
-          "comp": "O",
-          "oppName": "Bolivia",
-          "date": "2025-09-04",
           "src": "goal"
         }
       ],
@@ -4947,6 +4943,17 @@
         "away": "Egypte",
         "hg": 3,
         "ag": 2,
+        "date": "2026-07-07",
+        "src": "espn"
+      },
+      {
+        "fase": "R16",
+        "home": "Zwitserland",
+        "away": "Colombia",
+        "hg": 0,
+        "ag": 0,
+        "ext": true,
+        "pens": "4-3",
         "date": "2026-07-07",
         "src": "espn"
       }
