@@ -1,6 +1,6 @@
 {
-  "version": 42,
-  "updatedAt": "2026-07-08T02:30:14.000Z",
+  "version": 43,
+  "updatedAt": "2026-07-09T22:30:13.301Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -57,8 +57,8 @@
         "driverPos": "Haaland velt Brazilië met twee goals en Noorwegen staat voor het eerst in de kwartfinale"
       },
       "Frankrijk": {
-        "pos": 7,
-        "driverPos": "1-0 tegen Paraguay via een penalty van Mbappé en door naar de kwartfinale tegen Marokko"
+        "pos": 8,
+        "driverPos": "2-0 tegen Marokko met goals van Mbappé en Dembélé en door naar de halve finale"
       },
       "Jordanië": {
         "neg": 4,
@@ -75,10 +75,6 @@
       "Qatar": {
         "neg": 5,
         "driverNeg": "uitgeschakeld met slechts een punt, slotnederlaag 1-3 tegen Bosnië"
-      },
-      "Marokko": {
-        "pos": 8,
-        "driverPos": "3-0 tegen Canada en door naar de kwartfinale"
       },
       "Turkije": {
         "neg": 3,
@@ -1005,6 +1001,14 @@
       ],
       "Marokko": [
         {
+          "result": "L",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-07-09",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1556,
           "comp": "O",
@@ -1074,14 +1078,6 @@
           "comp": "O",
           "oppName": "Senegal",
           "date": "2026-01-18",
-          "src": "nbc"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "O",
-          "oppName": "Nigeria",
-          "date": "2026-01-14",
           "src": "nbc"
         }
       ],
@@ -2154,6 +2150,14 @@
       "Frankrijk": [
         {
           "result": "W",
+          "opp": 1756,
+          "comp": "O",
+          "oppName": "Marokko",
+          "date": "2026-07-09",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1503,
           "comp": "O",
           "oppName": "Paraguay",
@@ -2222,14 +2226,6 @@
           "comp": "F",
           "oppName": "Brazilië",
           "date": "2026-03-26",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1150,
-          "comp": "O",
-          "oppName": "Azerbeidzjan",
-          "date": "2025-11-16",
           "src": "fourfourtwo"
         }
       ],
@@ -4955,6 +4951,15 @@
         "ext": true,
         "pens": "4-3",
         "date": "2026-07-07",
+        "src": "espn"
+      },
+      {
+        "fase": "QF",
+        "home": "Frankrijk",
+        "away": "Marokko",
+        "hg": 2,
+        "ag": 0,
+        "date": "2026-07-09",
         "src": "espn"
       }
     ]
