@@ -1,13 +1,9 @@
 {
-  "version": 43,
-  "updatedAt": "2026-07-09T22:30:13.301Z",
+  "version": 44,
+  "updatedAt": "2026-07-10T22:30:13.642Z",
   "schema": 1,
   "data": {
     "buzz": {
-      "België": {
-        "pos": 8,
-        "driverPos": "overtuigend 4-1 tegen gastland VS en door naar de kwartfinale tegen Spanje"
-      },
       "Tunesië": {
         "neg": 6,
         "driverNeg": "uitgeschakeld na een 0-4 tegen Japan, bondscoach Lamouchi werd al eerder ontslagen"
@@ -38,7 +34,7 @@
       },
       "Spanje": {
         "pos": 8,
-        "driverPos": "1-0 tegen Portugal door een treffer van Merino in blessuretijd en door naar de kwartfinale"
+        "driverPos": "2-1 tegen België door een treffer van Merino in de slotfase en door naar de halve finale tegen Frankrijk"
       },
       "Saoedi-Arabië": {
         "neg": 4,
@@ -2068,6 +2064,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1735,
+          "comp": "O",
+          "oppName": "België",
+          "date": "2026-07-10",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1764,
           "comp": "O",
           "oppName": "Portugal",
@@ -2136,14 +2140,6 @@
           "comp": "F",
           "oppName": "Servië",
           "date": "2026-03-27",
-          "src": "fourfourtwo"
-        },
-        {
-          "result": "D",
-          "opp": 1599,
-          "comp": "O",
-          "oppName": "Turkije",
-          "date": "2025-11-18",
           "src": "fourfourtwo"
         }
       ],
@@ -2313,6 +2309,14 @@
       ],
       "België": [
         {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-07-10",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1673,
           "comp": "O",
@@ -2382,14 +2386,6 @@
           "comp": "O",
           "oppName": "Noord-Macedonië",
           "date": "2025-11-18",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 750,
-          "comp": "O",
-          "oppName": "Liechtenstein",
-          "date": "2025-11-15",
           "src": "uefa"
         }
       ],
@@ -4960,6 +4956,15 @@
         "hg": 2,
         "ag": 0,
         "date": "2026-07-09",
+        "src": "espn"
+      },
+      {
+        "fase": "QF",
+        "home": "Spanje",
+        "away": "België",
+        "hg": 2,
+        "ag": 1,
+        "date": "2026-07-10",
         "src": "espn"
       }
     ]
