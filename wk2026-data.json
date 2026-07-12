@@ -1,6 +1,6 @@
 {
-  "version": 44,
-  "updatedAt": "2026-07-10T22:30:13.642Z",
+  "version": 45,
+  "updatedAt": "2026-07-12T02:30:14.127Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -48,10 +48,6 @@
         "neg": 5,
         "driverNeg": "uitgeschakeld in de groepsfase na een 0-1 tegen Spanje, tegenvaller voor de tweevoudig wereldkampioen"
       },
-      "Noorwegen": {
-        "pos": 8,
-        "driverPos": "Haaland velt Brazilië met twee goals en Noorwegen staat voor het eerst in de kwartfinale"
-      },
       "Frankrijk": {
         "pos": 8,
         "driverPos": "2-0 tegen Marokko met goals van Mbappé en Dembélé en door naar de halve finale"
@@ -61,8 +57,8 @@
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
-        "pos": 7,
-        "driverPos": "3-2 tegen Mexico in het Azteca en ondanks rood voor Quansah door naar de kwartfinale"
+        "pos": 8,
+        "driverPos": "1-2 na verlenging tegen Noorwegen door twee goals van Bellingham en voor het eerst sinds 2018 naar de halve finale"
       },
       "Zwitserland": {
         "pos": 8,
@@ -2228,6 +2224,14 @@
       "Engeland": [
         {
           "result": "W",
+          "opp": 1550,
+          "comp": "O",
+          "oppName": "Noorwegen",
+          "date": "2026-07-11",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1681,
           "comp": "O",
           "oppName": "Mexico",
@@ -2297,14 +2301,6 @@
           "oppName": "Uruguay",
           "date": "2026-03-27",
           "src": "espn"
-        },
-        {
-          "result": "L",
-          "opp": 1689,
-          "comp": "F",
-          "oppName": "Senegal",
-          "date": "2025-11-15",
-          "src": "ussoccer"
         }
       ],
       "België": [
@@ -2637,6 +2633,14 @@
       ],
       "Noorwegen": [
         {
+          "result": "L",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-07-11",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1761,
           "comp": "O",
@@ -2706,14 +2710,6 @@
           "comp": "O",
           "oppName": "Estland",
           "date": "2025-11-13",
-          "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 900,
-          "comp": "O",
-          "oppName": "Moldavië",
-          "date": "2025-10-14",
           "src": "uefa"
         }
       ],
@@ -4965,6 +4961,16 @@
         "hg": 2,
         "ag": 1,
         "date": "2026-07-10",
+        "src": "espn"
+      },
+      {
+        "fase": "QF",
+        "home": "Noorwegen",
+        "away": "Engeland",
+        "hg": 1,
+        "ag": 2,
+        "ext": true,
+        "date": "2026-07-11",
         "src": "espn"
       }
     ]
