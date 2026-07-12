@@ -1,6 +1,6 @@
 {
-  "version": 45,
-  "updatedAt": "2026-07-12T02:30:14.127Z",
+  "version": 46,
+  "updatedAt": "2026-07-12T05:30:12.038Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -14,7 +14,7 @@
       },
       "Argentinië": {
         "pos": 8,
-        "driverPos": "van 0-2 terug naar 3-2 tegen Egypte met de winnende kopgoal van Enzo Fernandez in blessuretijd"
+        "driverPos": "3-1 na verlenging tegen Zwitserland en door naar de halve finale tegen Engeland"
       },
       "Iran": {
         "neg": 3,
@@ -59,10 +59,6 @@
       "Engeland": {
         "pos": 8,
         "driverPos": "1-2 na verlenging tegen Noorwegen door twee goals van Bellingham en voor het eerst sinds 2018 naar de halve finale"
-      },
-      "Zwitserland": {
-        "pos": 8,
-        "driverPos": "0-0 tegen Colombia en na strafschoppen door naar de kwartfinale"
       },
       "Qatar": {
         "neg": 5,
@@ -829,6 +825,14 @@
       ],
       "Zwitserland": [
         {
+          "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-07-11",
+          "src": "espn"
+        },
+        {
           "result": "D",
           "opp": 1693,
           "comp": "O",
@@ -899,14 +903,6 @@
           "oppName": "Kosovo",
           "date": "2025-11-15",
           "src": "uefa"
-        },
-        {
-          "result": "W",
-          "opp": 1530,
-          "comp": "O",
-          "oppName": "Zweden",
-          "date": "2025-10-13",
-          "src": "nbc"
         }
       ],
       "Brazilië": [
@@ -3536,6 +3532,14 @@
       "Argentinië": [
         {
           "result": "W",
+          "opp": 1649,
+          "comp": "O",
+          "oppName": "Zwitserland",
+          "date": "2026-07-11",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1563,
           "comp": "O",
           "oppName": "Egypte",
@@ -3604,14 +3608,6 @@
           "comp": "F",
           "oppName": "Mauritanië",
           "date": "2026-03-27",
-          "src": "goal"
-        },
-        {
-          "result": "L",
-          "opp": 1580,
-          "comp": "O",
-          "oppName": "Ecuador",
-          "date": "2025-09-09",
           "src": "goal"
         }
       ],
@@ -4969,6 +4965,16 @@
         "away": "Engeland",
         "hg": 1,
         "ag": 2,
+        "ext": true,
+        "date": "2026-07-11",
+        "src": "espn"
+      },
+      {
+        "fase": "QF",
+        "home": "Argentinië",
+        "away": "Zwitserland",
+        "hg": 3,
+        "ag": 1,
         "ext": true,
         "date": "2026-07-11",
         "src": "espn"
