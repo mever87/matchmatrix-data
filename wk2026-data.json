@@ -1,6 +1,6 @@
 {
-  "version": 46,
-  "updatedAt": "2026-07-12T05:30:12.038Z",
+  "version": 47,
+  "updatedAt": "2026-07-14T22:30:15.200Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -33,8 +33,8 @@
         "driverPos": "uitgeschakeld na 0-2 tegen Ivoorkust, maar een historisch WK-debuut met een punt"
       },
       "Spanje": {
-        "pos": 8,
-        "driverPos": "2-1 tegen België door een treffer van Merino in de slotfase en door naar de halve finale tegen Frankrijk"
+        "pos": 9,
+        "driverPos": "2-0 tegen Frankrijk en door naar de WK-finale"
       },
       "Saoedi-Arabië": {
         "neg": 4,
@@ -49,8 +49,8 @@
         "driverNeg": "uitgeschakeld in de groepsfase na een 0-1 tegen Spanje, tegenvaller voor de tweevoudig wereldkampioen"
       },
       "Frankrijk": {
-        "pos": 8,
-        "driverPos": "2-0 tegen Marokko met goals van Mbappé en Dembélé en door naar de halve finale"
+        "neg": 5,
+        "driverNeg": "0-2 verloren van Spanje in de halve finale en uitgeschakeld"
       },
       "Jordanië": {
         "neg": 4,
@@ -2056,6 +2056,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-07-14",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1735,
           "comp": "O",
           "oppName": "België",
@@ -2125,17 +2133,17 @@
           "oppName": "Egypte",
           "date": "2026-03-31",
           "src": "fourfourtwo"
-        },
-        {
-          "result": "W",
-          "opp": 1480,
-          "comp": "F",
-          "oppName": "Servië",
-          "date": "2026-03-27",
-          "src": "fourfourtwo"
         }
       ],
       "Frankrijk": [
+        {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-07-14",
+          "src": "espn"
+        },
         {
           "result": "W",
           "opp": 1756,
@@ -2207,14 +2215,6 @@
           "oppName": "Colombia",
           "date": "2026-03-29",
           "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1761,
-          "comp": "F",
-          "oppName": "Brazilië",
-          "date": "2026-03-26",
-          "src": "fourfourtwo"
         }
       ],
       "Engeland": [
@@ -4977,6 +4977,15 @@
         "ag": 1,
         "ext": true,
         "date": "2026-07-11",
+        "src": "espn"
+      },
+      {
+        "fase": "SF",
+        "home": "Frankrijk",
+        "away": "Spanje",
+        "hg": 0,
+        "ag": 2,
+        "date": "2026-07-14",
         "src": "espn"
       }
     ]
