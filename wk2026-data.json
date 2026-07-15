@@ -1,6 +1,6 @@
 {
-  "version": 47,
-  "updatedAt": "2026-07-14T22:30:15.200Z",
+  "version": 48,
+  "updatedAt": "2026-07-15T22:30:09.411Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -13,8 +13,8 @@
         "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
       },
       "Argentinië": {
-        "pos": 8,
-        "driverPos": "3-1 na verlenging tegen Zwitserland en door naar de halve finale tegen Engeland"
+        "pos": 9,
+        "driverPos": "comeback met twee late goals tegen Engeland en door naar de WK-finale tegen Spanje"
       },
       "Iran": {
         "neg": 3,
@@ -57,8 +57,8 @@
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
-        "pos": 8,
-        "driverPos": "1-2 na verlenging tegen Noorwegen door twee goals van Bellingham en voor het eerst sinds 2018 naar de halve finale"
+        "neg": 4,
+        "driverNeg": "1-2 tegen Argentinië door twee tegengoals in de slotfase, de finale glipte weg"
       },
       "Qatar": {
         "neg": 5,
@@ -2219,6 +2219,14 @@
       ],
       "Engeland": [
         {
+          "result": "L",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-07-15",
+          "src": "espn"
+        },
+        {
           "result": "W",
           "opp": 1550,
           "comp": "O",
@@ -2288,14 +2296,6 @@
           "comp": "F",
           "oppName": "Japan",
           "date": "2026-03-31",
-          "src": "espn"
-        },
-        {
-          "result": "D",
-          "opp": 1673,
-          "comp": "F",
-          "oppName": "Uruguay",
-          "date": "2026-03-27",
           "src": "espn"
         }
       ],
@@ -3532,6 +3532,14 @@
       "Argentinië": [
         {
           "result": "W",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-07-15",
+          "src": "espn"
+        },
+        {
+          "result": "W",
           "opp": 1649,
           "comp": "O",
           "oppName": "Zwitserland",
@@ -3600,14 +3608,6 @@
           "comp": "F",
           "oppName": "Zambia",
           "date": "2026-03-31",
-          "src": "goal"
-        },
-        {
-          "result": "W",
-          "opp": 1110,
-          "comp": "F",
-          "oppName": "Mauritanië",
-          "date": "2026-03-27",
           "src": "goal"
         }
       ],
@@ -4061,9 +4061,6 @@
     "unavailable": {
       "Argentinië": [
         "Leonardo Balerdi"
-      ],
-      "Engeland": [
-        "Jarell Quansah"
       ]
     },
     "results": [
@@ -4986,6 +4983,15 @@
         "hg": 0,
         "ag": 2,
         "date": "2026-07-14",
+        "src": "espn"
+      },
+      {
+        "fase": "SF",
+        "home": "Engeland",
+        "away": "Argentinië",
+        "hg": 1,
+        "ag": 2,
+        "date": "2026-07-15",
         "src": "espn"
       }
     ]
