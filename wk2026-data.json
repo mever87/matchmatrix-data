@@ -1,6 +1,6 @@
 {
-  "version": 48,
-  "updatedAt": "2026-07-15T22:30:09.411Z",
+  "version": 49,
+  "updatedAt": "2026-07-19T02:30:08.782Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -50,15 +50,15 @@
       },
       "Frankrijk": {
         "neg": 5,
-        "driverNeg": "0-2 verloren van Spanje in de halve finale en uitgeschakeld"
+        "driverNeg": "4-6 verloren van Engeland in de bronsfinale ondanks twee goals van Mbappé"
       },
       "Jordanië": {
         "neg": 4,
         "driverNeg": "tweede nederlaag in het WK-debuut, 1-2 tegen Algerije en uitgeschakeld"
       },
       "Engeland": {
-        "neg": 4,
-        "driverNeg": "1-2 tegen Argentinië door twee tegengoals in de slotfase, de finale glipte weg"
+        "pos": 6,
+        "driverPos": "6-4 winst op Frankrijk in de bronsfinale met een hattrick van Saka, beste WK-eindklassering sinds 1966"
       },
       "Qatar": {
         "neg": 5,
@@ -2138,6 +2138,14 @@
       "Frankrijk": [
         {
           "result": "L",
+          "opp": 1826,
+          "comp": "O",
+          "oppName": "Engeland",
+          "date": "2026-07-18",
+          "src": "yahoo"
+        },
+        {
+          "result": "L",
           "opp": 1876,
           "comp": "O",
           "oppName": "Spanje",
@@ -2207,17 +2215,17 @@
           "oppName": "Ivoorkust",
           "date": "2026-06-04",
           "src": "football365"
-        },
-        {
-          "result": "W",
-          "opp": 1693,
-          "comp": "F",
-          "oppName": "Colombia",
-          "date": "2026-03-29",
-          "src": "goal"
         }
       ],
       "Engeland": [
+        {
+          "result": "W",
+          "opp": 1877,
+          "comp": "O",
+          "oppName": "Frankrijk",
+          "date": "2026-07-18",
+          "src": "yahoo"
+        },
         {
           "result": "L",
           "opp": 1875,
@@ -2289,14 +2297,6 @@
           "oppName": "Nieuw-Zeeland",
           "date": "2026-06-06",
           "src": "football365"
-        },
-        {
-          "result": "L",
-          "opp": 1660,
-          "comp": "F",
-          "oppName": "Japan",
-          "date": "2026-03-31",
-          "src": "espn"
         }
       ],
       "België": [
@@ -4993,6 +4993,15 @@
         "ag": 2,
         "date": "2026-07-15",
         "src": "espn"
+      },
+      {
+        "fase": "brons",
+        "home": "Frankrijk",
+        "away": "Engeland",
+        "hg": 4,
+        "ag": 6,
+        "date": "2026-07-18",
+        "src": "yahoo"
       }
     ]
   }
