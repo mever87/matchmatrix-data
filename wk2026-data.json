@@ -1,6 +1,6 @@
 {
-  "version": 49,
-  "updatedAt": "2026-07-19T02:30:08.782Z",
+  "version": 50,
+  "updatedAt": "2026-07-19T22:30:10.306Z",
   "schema": 1,
   "data": {
     "buzz": {
@@ -13,8 +13,8 @@
         "driverNeg": "uitgeschakeld na een 0-3 nederlaag tegen Brazilië"
       },
       "Argentinië": {
-        "pos": 9,
-        "driverPos": "comeback met twee late goals tegen Engeland en door naar de WK-finale tegen Spanje"
+        "neg": 4,
+        "driverNeg": "finale verloren van Spanje na verlenging en rood voor Enzo Fernández"
       },
       "Iran": {
         "neg": 3,
@@ -34,7 +34,7 @@
       },
       "Spanje": {
         "pos": 9,
-        "driverPos": "2-0 tegen Frankrijk en door naar de WK-finale"
+        "driverPos": "wereldkampioen na 1-0 tegen Argentinië in de finale"
       },
       "Saoedi-Arabië": {
         "neg": 4,
@@ -2056,6 +2056,14 @@
       "Spanje": [
         {
           "result": "W",
+          "opp": 1875,
+          "comp": "O",
+          "oppName": "Argentinië",
+          "date": "2026-07-19",
+          "src": "nbc"
+        },
+        {
+          "result": "W",
           "opp": 1877,
           "comp": "O",
           "oppName": "Frankrijk",
@@ -2125,14 +2133,6 @@
           "oppName": "Irak",
           "date": "2026-06-04",
           "src": "football365"
-        },
-        {
-          "result": "D",
-          "opp": 1563,
-          "comp": "F",
-          "oppName": "Egypte",
-          "date": "2026-03-31",
-          "src": "fourfourtwo"
         }
       ],
       "Frankrijk": [
@@ -3531,6 +3531,14 @@
       ],
       "Argentinië": [
         {
+          "result": "L",
+          "opp": 1876,
+          "comp": "O",
+          "oppName": "Spanje",
+          "date": "2026-07-19",
+          "src": "nbc"
+        },
+        {
           "result": "W",
           "opp": 1826,
           "comp": "O",
@@ -3601,14 +3609,6 @@
           "oppName": "Honduras",
           "date": "2026-06-07",
           "src": "football365"
-        },
-        {
-          "result": "W",
-          "opp": 1130,
-          "comp": "F",
-          "oppName": "Zambia",
-          "date": "2026-03-31",
-          "src": "goal"
         }
       ],
       "Colombia": [
@@ -5002,6 +5002,16 @@
         "ag": 6,
         "date": "2026-07-18",
         "src": "yahoo"
+      },
+      {
+        "fase": "F",
+        "home": "Spanje",
+        "away": "Argentinië",
+        "hg": 1,
+        "ag": 0,
+        "ext": true,
+        "date": "2026-07-19",
+        "src": "nbc"
       }
     ]
   }
